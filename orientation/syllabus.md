@@ -38,7 +38,7 @@ material to the lesson content.
 | **Week** | **Topics**| **Assignments**|
 |----------|-----------|----------------|
 |*Orientation Week*| Course Overview & Syllabus Review| Pre-Class Activity: Introduce Yourself; Install Docker & INFO490 Container; Orientation Quiz|
-|*Week 1*| Introduction to Unix| [Week 1 Lesson 1: Virtualization and Dockers](../Week1/lesson1.md); [Week 1 Lesson 2: The Unix Shell](../Week1/lesson2.md); [Week 1 Lesson 3: Basic Unix Concepts](../Week1/lesson3.md); Week 1 Assignment; Week 1 Quiz|
+|*Week 1*| Introduction to Unix| Week 1 Lesson 1: [Virtualization and Dockers](../Week1/lesson1.md) <br/> Week 1 Lesson 2: [The Unix Shell](../Week1/lesson2.md) <p> Week 1 Lesson 3: [Basic Unix Concepts](../Week1/lesson3.md); Week 1 Assignment; Week 1 Quiz|
 |*Week 2*| Introduction to Command-Line Data Science | [Week 2 Lesson 1: Unix File Processing & Management](../Week2/lesson1.md); [Week 2 Lesson 2: Unix Data Processing](../Week2/lesson2.md); [Week 2 Lesson 3: Source Code Control with Git & Github](../Week2/lesson3.md); Week 2 Assignment; Week 2 Quiz|
 | *Week 3*| Introduction to the Python Programming Language| [Week 3 Lesson 1: Working with the iPython Notebook](../Week3/lesson1.md); [Week 3 Lesson 2: Introduction to Python Programming](../Week3/lesson2.md); [Week 3 Lesson 3: Python Functions](../Week3/lesson3.md); Week 3 Assignment; Week 3 Quiz|
 | *Week 4*| Advanced Python Programming Language|[Week 4 Lesson 1: Python Data Structures](../Week4/lesson1.md); [Week 4 Lesson 2: Working with the Underlying File System](../Week4/lesson2.md); [Week 4 Lesson 3: Advanced Concepts](../Week4/lesson3.md); Week 4 Assignment; Week 4 Quiz|
