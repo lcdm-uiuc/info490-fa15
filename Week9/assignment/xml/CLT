@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>CLT</IATA>
+				
+					<State>North Carolina</State>
+				
+					<Name>Charlotte Douglas International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Overcast</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>4:52 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>49.0 F (9.4 C)</Temp>
+				
+					<Wind>Northeast at 10.4mph</Wind></Weather>
+				
+					<ICAO>KCLT</ICAO>
+				
+					<City>Charlotte</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

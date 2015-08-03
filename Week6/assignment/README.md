@@ -1,7 +1,8 @@
-## Week *X* Assignment
+## Week 6 Assignment
 
-The goal of this week's assignment is to *UPDATE*.
+- [Automated Grading](grading.md): The usual warning.
+- [Problem 1](p1.md): Simple Statistics Using Pandas.
+- [Problem 2](p2.md): Flight Cancellations by Month.
+- [Problem 3](p3.md): Cumulative Distribution Function.
 
-1. [Problem 1](p1.md): *Add text*
-
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Update on folder sharing](docker_folder_sharing.md): An easier way to use the shared folder.

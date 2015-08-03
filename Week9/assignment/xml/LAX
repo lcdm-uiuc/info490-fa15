@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>true</Delay>
+				
+					<IATA>LAX</IATA>
+				
+					<State>California</State>
+				
+					<Name>Los Angeles International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Partly Cloudy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>1:53 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>67.0 F (19.4 C)</Temp>
+				
+					<Wind>West at 13.8mph</Wind></Weather>
+				
+					<ICAO>KLAX</ICAO>
+				
+					<City>Los Angeles</City>
+				
+					<Status><Reason>TM Initiatives:ESP:VOL</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay>16 minutes</MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay>30 minutes</MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend>Increasing</Trend>
+				
+					<Type>Departure</Type></Status>
+				</AirportStatus> 

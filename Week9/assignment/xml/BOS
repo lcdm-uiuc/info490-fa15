@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>BOS</IATA>
+				
+					<State>Massachusetts</State>
+				
+					<Name>General Edward Lawrence Logan International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>A Few Clouds and Breezy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>4:54 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>34.0 F (1.1 C)</Temp>
+				
+					<Wind>Northwest at 20.7mph</Wind></Weather>
+				
+					<ICAO>KBOS</ICAO>
+				
+					<City>Boston</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

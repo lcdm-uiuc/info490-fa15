@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>DFW</IATA>
+				
+					<State>Texas</State>
+				
+					<Name>Dallas/Ft Worth International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Overcast</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>3:53 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>74.0 F (23.3 C)</Temp>
+				
+					<Wind>South at 10.4mph</Wind></Weather>
+				
+					<ICAO>KDFW</ICAO>
+				
+					<City>Dallas-Ft Worth</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

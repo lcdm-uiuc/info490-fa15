@@ -1,7 +1,7 @@
-# INFO 490: Foundations of Data Science #
+# INFO 490: Introduction to Data Science #
 
-INFO 490: Foundations of Data Science uses an project-based approach to
-introduce students to the tools and technologies necessary for
+INFO 490: Introduction to Data Science uses an project-based approach to
+indoctrinate students into the tools and technologies necessary for
 working with large data.
 
 ## Course Goals ##

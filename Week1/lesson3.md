@@ -1,30 +1,27 @@
-# Week *X* Lesson 3 #
-## *SHORT TITLE* ##
+# Week 1 Lesson 3 #
+## The Unix Model ##
 
-In this lesson you will learn about *XYZ*.
+In this lesson, you will learn more details about how Unix-like operating systems operate.
 
-###Objectives ###
+### Objectives###
+By the end of this lesson, you will:
 
-By the end of this lesson, you will be able to:
-
-- *concept1*
-- *concept2*
-- *concept3*
-- *concept4*
+- Understand how to invoke Unix commands.
+- Understand how to redirect command input and output.
+- Understand the Unix permission model.
+- Understand how Unix processes work.
 
 ### Time Estimate ###
+Approximately 2 hours.
 
-Approximately *2* hours.
+### Readings ###
 
-### Readings ####
-- Read *ABC*
-- Read and follow along with *QWERTY*
+- Read chapters 5-6, and 9-10 from the free book [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine.
 
-#### *Optional Additional Readings*####
-- Read *XYZ*
-- 
+#### *Optional Additional Readings* ####
+- Read chapters 7-8 from the free book [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine.
+
 ### Assessment ###
 
-When you have completed and worked through the above readings, please
-take the Week 1 Lesson 3 Assessment.
+When you have completed and worked through the above readings, please take the Week 1 Lesson 3 Assessment.
 

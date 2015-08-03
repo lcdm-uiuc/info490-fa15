@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>ORD</IATA>
+				
+					<State>Illinois</State>
+				
+					<Name>Chicago OHare International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Overcast</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>3:51 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>45.0 F (7.2 C)</Temp>
+				
+					<Wind>East at 9.2mph</Wind></Weather>
+				
+					<ICAO>KORD</ICAO>
+				
+					<City>Chicago</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

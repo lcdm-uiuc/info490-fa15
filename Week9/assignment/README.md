@@ -1,7 +1,12 @@
-## Week *X* Assignment
+## Week 9 Lessons
 
-The goal of this week's assignment is to *UPDATE*.
+- [intro2pandas.ipynb](intro2pandas.ipynb): Introduction to Pandas.
+- [dataformats.ipynb](dataformats.ipynb): Introduction to Data Formats.
+- [intro2dp.ipynb](intro2dp.ipynb): Introduction to Data Parsing.
+- [dataviz.ipynb](dataviz.ipynb): Data Visualization.
 
-1. [Problem 1](p1.md): *Add text*
+## Week 9 Assignments
 
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Problems 1-3](p1-3.md): Top 20 Airports, XML Scraping, and Data
+  Visualization.
+- [airports.ipynb](airports.ipynb): IPython notebook template.

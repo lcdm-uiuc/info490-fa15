@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>LAS</IATA>
+				
+					<State>Nevada</State>
+				
+					<Name>Las Vegas McCarran International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>A Few Clouds</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>1:56 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>78.0 F (25.6 C)</Temp>
+				
+					<Wind>Northeast at 16.1mph</Wind></Weather>
+				
+					<ICAO>KLAS</ICAO>
+				
+					<City>Las Vegas</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

@@ -1,7 +1,7 @@
-## Week *X* Assignment
+## Week 3 Assignment
 
-The goal of this week's assignment is to *UPDATE*.
-
-1. [Problem 1](p1.md): *Add text*
-
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Automated Grading](grading.md): IMPORTANT. Ignore at your peril.
+- [Suggested Workflow](workflow.md): Read this if you don't know how to use
+  IPython notebook templates provided on the course repository.
+- [Problem 1](p1.md): The obligatory "hello world" problem.
+- [Problem 2](p2.md): A famous interview question.

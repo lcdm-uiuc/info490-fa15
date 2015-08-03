@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>DEN</IATA>
+				
+					<State>Colorado</State>
+				
+					<Name>Denver International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Overcast</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>2:53 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>46.0 F (7.8 C)</Temp>
+				
+					<Wind>Southeast at 4.6mph</Wind></Weather>
+				
+					<ICAO>KDEN</ICAO>
+				
+					<City>Denver</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

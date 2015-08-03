@@ -1,7 +1,7 @@
-## Week *X* Assignment
+# Week 5 Assignment
 
-The goal of this week's assignment is to *UPDATE*.
+No templates are provided in this week.
 
-1. [Problem 1](p1.md): *Add text*
-
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Problem 1](p1.md): Trigonometric Functions.
+- [Problem 2](p2.md): Distance vs. AirTime.
+- [Problem 3](p3.md): Weekend Departure Delays.

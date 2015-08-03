@@ -1,7 +1,4 @@
-## Week *X* Assignment
+## Week 8 Assignment
 
-The goal of this week's assignment is to *UPDATE*.
-
-1. [Problem 1](p1.md): *Add text*
-
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Problem 1](p1.md): Delays at the O'Hare Airprot.
+- [Problem 2](p2.md): Twitter Time Series.

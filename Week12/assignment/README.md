@@ -1,7 +1,13 @@
-## Week *X* Assignment
+# Week 12
 
-The goal of this week's assignment is to *UPDATE*.
+## Lessons
 
-1. [Problem 1](p1.md): *Add text*
+- [Data Preparation](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week12/intro2de.ipynb)
+- [Data Exploration](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week12/dataexplore.ipynb)
 
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+
+## Assignments
+
+- [Problem 1](p1.md): HDF.
+- [Problem 2](p2.md): Heat Maps. 
+- [Problem 3](p3.md): MCMC.

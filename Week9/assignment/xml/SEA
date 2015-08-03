@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>SEA</IATA>
+				
+					<State>Washington</State>
+				
+					<Name>Seattle-Tacoma International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Mostly Cloudy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>1:53 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>57.0 F (13.9 C)</Temp>
+				
+					<Wind>Southwest at 6.9mph</Wind></Weather>
+				
+					<ICAO>KSEA</ICAO>
+				
+					<City>Seattle</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

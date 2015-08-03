@@ -1,0 +1,12 @@
+airportID
+name
+city
+country
+iata
+icao
+latitude
+longitude
+altitude
+timeZone
+dst
+tzDatabaseTimeZone

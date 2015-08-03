@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>PHX</IATA>
+				
+					<State>Arizona</State>
+				
+					<Name>Phoenix Sky Harbor International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Mostly Cloudy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>1:51 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>67.0 F (19.4 C)</Temp>
+				
+					<Wind>West at 10.4mph</Wind></Weather>
+				
+					<ICAO>KPHX</ICAO>
+				
+					<City>Phoenix</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

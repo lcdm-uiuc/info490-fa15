@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>MSP</IATA>
+				
+					<State>Minnesota</State>
+				
+					<Name>Minneapolis-St Paul International/Wold-Chamberlain</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Partly Cloudy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>3:53 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>49.0 F (9.4 C)</Temp>
+				
+					<Wind>South at 16.1mph</Wind></Weather>
+				
+					<ICAO>KMSP</ICAO>
+				
+					<City>Minneapolis</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

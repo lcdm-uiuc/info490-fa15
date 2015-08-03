@@ -1,7 +1,5 @@
-## Week *X* Assignment
+## Week 7 Assignment
 
-The goal of this week's assignment is to *UPDATE*.
-
-1. [Problem 1](p1.md): *Add text*
-
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Problem 7.1](p1.md): The Locomotive Problem.
+- [Problem 7.2](p2.md): Chi-Squared Test.
+- [Problem 7.3](p3.md): Linear Models.

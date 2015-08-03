@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>true</Delay>
+				
+					<IATA>LGA</IATA>
+				
+					<State>New York</State>
+				
+					<Name>La Guardia</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Mostly Cloudy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>4:51 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>42.0 F (5.6 C)</Temp>
+				
+					<Wind>Northwest at 10.4mph</Wind></Weather>
+				
+					<ICAO>KLGA</ICAO>
+				
+					<City>New York</City>
+				
+					<Status><Reason>VOL:ARRIVAL</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay>31 minutes</MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay>45 minutes</MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend>Increasing</Trend>
+				
+					<Type>Departure</Type></Status>
+				</AirportStatus> 

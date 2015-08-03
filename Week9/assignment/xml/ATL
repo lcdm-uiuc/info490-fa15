@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>ATL</IATA>
+				
+					<State>Georgia</State>
+				
+					<Name>The William B Hartsfield International</Name>
+				
+					<Weather><Visibility>2.00</Visibility>
+				
+					<Weather>Light Drizzle Fog/Mist</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>4:52 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>52.0 F (11.1 C)</Temp>
+				
+					<Wind>East at 12.7mph</Wind></Weather>
+				
+					<ICAO>KATL</ICAO>
+				
+					<City>Atlanta</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

@@ -1,7 +1,8 @@
-## Week *X* Assignment
+## Week 10 Lessons
 
-The goal of this week's assignment is to *UPDATE*.
+- [Lessons
+  1-3](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week10/index.ipynb)
 
-1. [Problem 1](p1.md): *Add text*
+## Week 10 Assignment
 
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Problems 1-3](p1-3.md): SQLite.

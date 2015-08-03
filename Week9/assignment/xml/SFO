@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>SFO</IATA>
+				
+					<State>California</State>
+				
+					<Name>San Francisco International</Name>
+				
+					<Weather><Visibility>9.00</Visibility>
+				
+					<Weather>Mostly Cloudy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>1:56 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>67.0 F (19.4 C)</Temp>
+				
+					<Wind>North at 4.6mph</Wind></Weather>
+				
+					<ICAO>KSFO</ICAO>
+				
+					<City>San Francisco</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

@@ -1,7 +1,6 @@
-## Week *X* Assignment
+# Week 13
 
-The goal of this week's assignment is to *UPDATE*.
+## Assignment 13
 
-1. [Problem 1](p1.md): *Add text*
-
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Problem 1](p1.md): Supervised Learning.
+- [Problem 2 & 3](p2-3.md): Dimensionality Reduction and Clustering.

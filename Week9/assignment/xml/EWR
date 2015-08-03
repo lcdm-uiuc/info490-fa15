@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>EWR</IATA>
+				
+					<State>New Jersey</State>
+				
+					<Name>Newark International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Mostly Cloudy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>4:51 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>44.0 F (6.7 C)</Temp>
+				
+					<Wind>Northwest at 9.2mph</Wind></Weather>
+				
+					<ICAO>KEWR</ICAO>
+				
+					<City>Newark</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 

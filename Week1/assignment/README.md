@@ -1,7 +1,6 @@
-## Week *X* Assignment
+## Week 1 Assignment
 
-The goal of this week's assignment is to *UPDATE*.
+The goal of this week's assignment is to make sure that you have Docker
+installed and that you understand the assignment submission via Moodle.
 
-1. [Problem 1](p1.md): *Add text*
-
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+1. [Problem 1](p1.md): Upload `FirstName-LastName-hostname.txt` via Moodle.

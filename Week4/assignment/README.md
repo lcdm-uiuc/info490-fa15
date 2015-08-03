@@ -1,7 +1,6 @@
-## Week *X* Assignment
+# Week 4 Assignment
 
-The goal of this week's assignment is to *UPDATE*.
-
-1. [Problem 1](p1.md): *Add text*
-
-*IF MORE PROBLEMS IN ASSIGNMENT, LIST HERE*
+- [Automated Grading](grading.md): The same warning from last week.
+- [Problem 1](p1.md): Simple Statistics I.
+- [Problem 2](p2.md): Simple Statistics II.
+- [Problem 3](p3.md): Twitter: Regular Expressions.
