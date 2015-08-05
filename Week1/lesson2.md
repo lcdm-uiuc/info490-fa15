@@ -1,5 +1,5 @@
 # Week 1 Lesson 2 #
-## The Unix Shell ##
+## The Unix Shell/JupyterHub ##
 
 In this lesson you will begin working at the Unix prompt in order to understand the bash shell, the Unix file system, and how to work with files and processes.
 
