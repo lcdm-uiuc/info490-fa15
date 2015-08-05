@@ -1,5 +1,5 @@
 # Week 1 Lesson 1 #
-## Virtualization and Dockers ##
+## Intro to Data Science ##
 
 In this lesson you will learn about virtualization, and specifically the Dockers technology.  Note that you may have already completed many of these tasks during the Orientation Week.
 
