@@ -1,5 +1,5 @@
 # Week 1 Lesson 3 #
-## The Unix Model ##
+## Virtualization/Dockers ##
 
 In this lesson, you will learn more details about how Unix-like operating systems operate.
 
