@@ -14,7 +14,11 @@ RUN apt-get update && \
  
 RUN pip3 install traitlets
 
-# jupyter is our user
+ADD notebook.sh /
+RUN chown 1000:1000 /notebook.sh
+RUN chmod u+x /notebook.sh
+
+# data_scientist is our user
 RUN useradd -m -u 1000 -s /bin/bash data_scientist
 
 USER data_scientist
@@ -29,4 +33,4 @@ EXPOSE 8888
 # set colors for terminal prompt
 RUN echo 'export PS1="\e[1;34m\u@\h:\w$ \e[0m"' >> /home/data_scientist/.bashrc
 
-CMD ["jupyter", "notebook", "--no-browser", "--port=8888", "--ip=*", "--matplotlib=inline"]
+CMD ["/notebook.sh"]
