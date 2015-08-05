@@ -10,16 +10,32 @@ RUN apt-get update && \
     gfortran \
     # fonts needed in seaborn 
     ttf-liberation \ 
-    ttf-bitstream-vera 
+    ttf-bitstream-vera \
+    libatlas-dev \
+    libatlas3gf-base \
+    python3-numpy \
+    python3-scipy \
+    python3-matplotlib \
+    python3-pandas \
+    python3-bs4
+
+# scikit-learn cannot be installed with apt-get
+# pip install has more recent version of ipython
+# install ipython notebook and dependencies
+RUN pip3 install scikit-learn \
+    seaborn \
+    bokeh \
+    statsmodels
+
+# Extremely basic test of install
+RUN python3 -c "import requests, bs4, sqlite3, \
+    matplotlib, scipy, numpy, pandas, sklearn, IPython, \
+    seaborn"
  
-RUN pip3 install traitlets
-
 ADD notebook.sh /
-RUN chown 1000:1000 /notebook.sh
-RUN chmod u+x /notebook.sh
-
-# data_scientist is our user
-RUN useradd -m -u 1000 -s /bin/bash data_scientist
+RUN chown 1000:1000 /notebook.sh && \
+    chmod u+x /notebook.sh && \
+    useradd -m -u 1000 -s /bin/bash data_scientist
 
 USER data_scientist
 ENV HOME /home/data_scientist
