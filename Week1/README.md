@@ -14,9 +14,9 @@
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 1 Introduction Video](https://mediaspace.illinois.edu/media/Week+One+Video/0_k99vv6k2)** | 10 Minutes | Tuesday | NA|
-|**[Week 1 Lesson 1: The UNIX File System](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 1 Lesson 2: Working at the Unix Prompt](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 1 Lesson 3: Important UNIX Tools](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 1 Lesson 1: Intro to Data Science](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 1 Lesson 2: JupyterHub/The Unix Shell](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 1 Lesson 3: Virtualization/Dockers](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 1 Quiz**| 30 Minutes | Friday | 40|
 |**Week 1 Assignment**| 1 Hour | Saturday | 30 | 
 
