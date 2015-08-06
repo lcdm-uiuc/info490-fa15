@@ -20,6 +20,8 @@ Approximately 2 hours.
 
 #### *Optional Additional Readings* ####
 - Wikipedia article covering [malware](http://en.wikipedia.org/wiki/Malware)
+- Chapters 2.16 and 2.17 of [How Linux Works](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/linux/9781457185519), which covers permissions and processes.
+- Chapter 2.7 of [The Linux Programming Interface](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/linux/9781593272203/2dot-fundamental-concepts/id812523) which covers processes.
 
 
 ### Assessment ###
