@@ -20,9 +20,9 @@ In this week, you will learn to perform data science tasks at the Unix prompt. F
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 2 Introduction Video](https://mediaspace.illinois.edu/media/Week+Two+Video/0_hfbyotx2)** | 10 Minutes | Tuesday | NA|
-|**[Week 2 Lesson 1: UNIX File Processing & Management](lesson1.md)**| 3 Hours |Thursday| 20|
-|**[Week 2 Lesson 2: Unix Data Processing](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 2 Lesson 3: Source Code Control with Git & Github](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 2 Lesson 1: Basic Unix Concepts](lesson1.md)**| 3 Hours |Thursday| 20|
+|**[Week 2 Lesson 2: Intro to iPython](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 2 Lesson 3: Intro to Python](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 2 Quiz**| 30 Minutes | Friday | 70|
 |**Week 2 Assignment**| 2 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 
