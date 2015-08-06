@@ -1,0 +1,18 @@
+With what phrase do you define a new function in python?
+{=def ~definition ~define ~function ~None of the above}
+
+What is encapsulation?
+{=The process of transforming a sequence of statements into a function definition 
+~The process of replacing something unnecessarily specific with something appropriately general
+~A waste of time
+~A string at the beginning of a function that explains what the function does
+}
+
+Which of the following expressions DOES NOT have a syntax error?
+{=print "HelloWorld" ~1stNumber+1=1 ~more@ is None ~assert is False ~True && False}
+
+Which of the following is a built-in Python technique to convert an int (12345) to a string?
+{=str(12345) ~string(12345) ~12345.tostr() ~to_str(12345) ~int2str(12345)}
+
+When you create a variable inside a function, it can be accessed:
+{=inside the function ~inside the function and functions declared after ~every function except "__main__"}

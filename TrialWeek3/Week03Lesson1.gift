@@ -1,0 +1,28 @@
+﻿Week 3: Assessment #1
+
+What command displays a user's identity?
+{=id ~identify ~ident ~su ~sudo}
+
+When considering the file mode, what would an R represent?
+{=Allows a file to be opened and read 
+~Allows a file to be written to but not renamed or deleted
+~Allows a file to be executed
+~None of the above
+}
+
+What command do you enter to initialize a git repository? 
+{=git init ~init ~git ~ginit ~git commit}
+
+With what command can you make a Unix-like system reboot?
+{=shutdown ~reboot ~kill ~killall ~shut}
+
+What will happen if you issue the the command "top" to a Unix-like system?
+{=Tasks will be displayed
+~Active jobs will be listed
+~It will show you the top of a single given process
+~A snapshot of current processes will be displayed
+~A signal will be sent to a process
+}
+
+If the state of a process is "Uninterruptable Sleep" how will that be represented in the process state?
+{=D ~U ~S ~R ~Z}
