@@ -1,30 +1,35 @@
-# Week 2 Lesson 3#
-## Source Code Control with Git & GitHub ##
+# Week 2 Lesson 3 #
+## Introduction to Python ##
 
-In this lesson, you will learn about source code control and versioning by using the git tool. In addition, you will learn to use github, and online source code repository that we will use in the rest of this course.
-
-## Objectives: ##
-
-By the end of this lesson, you will be able to use git:
-
-- to create a new repository,
-- to add files to a repository,
-- to make commits to a repository, and
-- to manage files in a repository.
+In this lesson, you will learn about the basics of python terminology, and the difference between various kinds of errors you will encounter through coding in Python.  Next, you will explore the various data types found in Python and learn how to apply simple operations (such as addition, subtraction, etc.) to Python variables.
 
 
-## Time Estimate##
+### Objectives###
+By the end of this lesson, you will:
+
+- Know basic python terminology, such as input, output, debugging, etc.
+- Know the difference between the different types of errors.
+- Use the Python interpreter.
+- Describe the basic data types provided by the Python language.
+- Perform basic operations on Python variables.
+
+
+
+### Time Estimate ###
 Approximately 2 hours.
 
-## Readings ##
+### Readings ###
 
-- Read Chapters 1-3, and 6 from [The Git Tutorial](http://git-scm.com/book/en/v1/Getting-Started), and follow along by entering commands in a terminal window within your virtual machine.
+- Read Chapters 1-2 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
+- [Introduction to the Python Programming Language](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week3/intro2py.ipynb)
 
-### Optional Additional Readings ###
-
-- Read Chapter 4 from [The Git Tutorial](http://git-scm.com/book/en/v1/Getting-Started), and follow along by entering commands in a terminal window within your virtual machine.
-- [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
-- [Set Up Git](https://help.github.com/articles/set-up-git/)
+#### *Optional Additional Readings* ####
+- Several free books, mostly written for Python 2:
+	- [Open Tech School's Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
+	- [Invent with Python](http://inventwithpython.com/)
+	- [Building Skills in Programming](http://www.itmaybeahack.com/homepage/books/)
+	- [Learn Python The Hard Way, 3rd Edition](http://learnpythonthehardway.org/book/)
+	- [A Byte of Python](http://www.ibiblio.org/g2swap/byteofpython/read/)
 
 
 ### Assessment ###

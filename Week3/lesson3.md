@@ -1,5 +1,5 @@
 # Week 3 Lesson 3 #
-## Python Functions ##
+## Python: Conditional Statements & Iteration ##
 
 In this lesson, you will focus on the details of writing and using functions in a Python program (we will stay within the IPython notebook, primarily, although you can experiment with writing and executing Python programs in a file). First, you will learn about conditional programming. Next, you will learn how to write a function that returns one or more values. Finally, you will learn about iteration and algorithm design. 
 
@@ -17,8 +17,14 @@ Approximately 2 hours.
 
 ### Readings ####
 
-Chapters 5-7 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
+- Chapters 5-7 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
+- [Fundamental Python Concepts](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week3/fundamentalpy.ipynb), paying special attention to the section on Conditional Statements and Iteration.
 
+## Optional Readings ##
+
+- Chapter 5 of [Python Essentials](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781784390341/python-essentials/ch05_html#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODE3ODQzOTAzNDElMkZjaDA1X2h0bWwmcXVlcnk9Y29uZGl0aW9uYWwlMjBzdGF0ZW1lbnRz), which deals with Logic, Comparisons and Conditions.
+- Chapter 2 of [Automate the Boring Stuff with Python](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781457189906)
+ 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the Week 3 Lesson 3 Assessment.

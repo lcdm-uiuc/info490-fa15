@@ -1,34 +1,35 @@
 # Week 2 Lesson 2#
-## Unix Data Processing ##
+## Introduction to iPython ##
 
-In this lesson, you will focus on using Unix commands to perform basic data processing at the Unix command prompt. Specifically you will learn about commands like grep, awk, and sed and how they can be used to extract rows of data from large files that meet certain conditions. In addition, you will learn how these commands can be combined with other Unix commands via pipes to perform fast, sophisticated data processing tasks. Finally, you will learn about persisting these data processing pipelines as Unix shell scripts.
+In this lesson, you will learn how to work with an IPython Notebook (note the name is being changed to Jupiter Notebook) from within your Docker INFO490 course container. You will first learn how to view notebooks online, before downloading them locally to execute. Next you will learn how to enter basic Python commands in the notebook and execute them. Finally, you will learn about IPython magic commands and how they can give you access to the underlying operating system and increased functionality.
 
-## Objectives: ##
+###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Write and use a grep command to extract lines form a file that match a specific pattern.
-- Write and use an awk program to perform simple data processing.
-- Write and use a sed script to transform lines in a file.
-- Understand the basic Unix data processing commands such as cat, uniq, wc, and sort.
-- Write a simple Unix shell script.
+- View an IPython notebook on github via the nbviewer.
+- Download an IPython notebook and execute it by using your info490 Docker container.
+- Execute Python commands in an IPython notebook.
+- Understand basic IPython magic command syntax.
 
-## Time Estimate##
-Approximately 3 hours.
+### Time Estimate ###
 
-## Readings ##
+Approximately 2 hours.
 
-- Read chapters 18-20, and 24 from the free book [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine. 
+### Readings ####
 
-### Optional Additional Readings ###
+- The Berkeley python Bootcamp [IPython Notebook](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/04_IPythonNotebookIntroduction/IPython+-+beyond+plain+Python.ipynb).
+	- First, view this online at the provided link
+	- Second, download the notebook (via download icon in the upper right)
+	- Third, upload this notebook to your Docker ipython server and run the commands interactively.
+- [Introduction to the iPython Notebook](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week3/intro2ipy.ipynb)
+- View other notebooks on [nbviewer](http://nbviewer.ipython.org/) website.
 
-- Read and follow along by entering commands in a terminal window within your virtual machine the following four awk tutorials:
-	- [Awk Introduction Tutorial- 7 Awk Print Examples](http://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/)
-	- [8 Powerful Awk Built-in Variables](http://www.thegeekstuff.com/2010/01/8-powerful-awk-built-in-variables-fs-ofs-rs-ors-nr-nf-filename-fnr/)
-	- [7 Powerful Awk Operators Examples](http://www.thegeekstuff.com/2010/02/unix-awk-operators/)
-	- [4 Awk If Statement Examples](http://www.thegeekstuff.com/2010/02/awk-conditional-statements/)
-- Read more about the [Stream Editor](http://tldp.org/LDP/Bash-Beginners-Guide/html/chap_05.html) program.
-- Learn more about [Unix shell scripts](https://en.wikipedia.org/wiki/Shell_script). 
+#### *Optional Additional Readings*####
+
+- Read about how to write [Markdown formatted](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/04_IPythonNotebookIntroduction/Markdown%20Cells.ipynb) IPython cells.
+- Learn about [IPython extensions](https://github.com/ipython-contrib/IPython-notebook-extensions).
+- Learn more about the basics of iPython in Chapter 1 of [IPython Interactive Computing and Visualization Cookbook](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781783284818)
 
 ### Assessment ###
 
