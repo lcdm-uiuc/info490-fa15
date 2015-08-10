@@ -1,38 +1,26 @@
-FROM jupyter/notebook
+FROM ipython/scipystack
 
 MAINTAINER Edward J Kim <edward.junhyung.kim@gmail.com>
 
 RUN apt-get update && \
+
     apt-get install -y -q \
     vim \
     wget \
-    # need fortran compiler to install pymc
-    gfortran \
     # fonts needed in seaborn 
     ttf-liberation \ 
     ttf-bitstream-vera \
-    libatlas-dev \
-    libatlas3gf-base \
-    python3-numpy \
-    python3-scipy \
-    python3-matplotlib \
-    python3-pandas \
-    python3-bs4
+    python3-bs4 && \
 
-# scikit-learn cannot be installed with apt-get
-# pip install has more recent version of ipython
-# install ipython notebook and dependencies
-RUN pip3 install scikit-learn \
-    seaborn \
-    bokeh \
-    statsmodels
+    pip3 install bokeh \
+    nbgrader && \
 
-# Extremely basic test of install
-RUN python3 -c "import requests, bs4, sqlite3, \
-    matplotlib, scipy, numpy, pandas, sklearn, IPython, \
-    seaborn"
- 
+    nbgrader extension install && \
+
+    nbgrader extension activate
+
 ADD notebook.sh /
+
 RUN chown 1000:1000 /notebook.sh && \
     chmod u+x /notebook.sh && \
     useradd -m -u 1000 -s /bin/bash data_scientist
