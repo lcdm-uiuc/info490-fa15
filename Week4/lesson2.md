@@ -1,5 +1,5 @@
 # Week 4 Lesson 2 #
-## Working with the Underlying File System ##
+## Python: Strings & Lists ##
 
 In this lesson, you will learn
 
@@ -7,7 +7,11 @@ In this lesson, you will learn
 
 By the end of this lesson, you will be able to:
 
-- Understand and manipulate strings within Python using various operators, such as in, and using for loops and the if comparison operator.
+- Understand what strings are. 
+- Manipulate strings within Python using various operators, such as in, and using for loops and the if comparison operator.
+- Understand what lists are, and how their output is organized.
+- Understand how to call one element of a list
+- Manipulate lists using list operators.
 - 
 
 ### Time Estimate ###
@@ -20,7 +24,9 @@ Approximately 2 hours.
 
 ## Optional Readings ##
 
-- Chapters  from [Dive Into Python](http://www.diveintopython3.net/index.html)
+- Chapters 2.4 and 4 from [Dive Into Python](http://www.diveintopython3.net/index.html)
+- Exercises 6, 32, 34, and 38 in [Learn Python the Hard Way](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9780133124316)
+- Chapters 4 and 6 in [Automate the Boring Stuff with Python](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781457189906)
 
 
 ### Assessment ###
