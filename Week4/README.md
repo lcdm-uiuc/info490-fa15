@@ -2,17 +2,23 @@
 ![python logo](../Week3/images/python-logo.png)
 ## Advanced Python Programming Language ##
 
-In this week, you will transition to more advanced Python programming concepts. First, you will learn how to work with advanced Python data structures like the List, Dictionary, String, and Tuple. Second, you will learn how to write an actual Python program that runs at the command prompt, before learning how to work with files from a Python program. Next you will learn about comprehensions and regular expression. Finally you will learn the basics of creating and using classes and objects in a Python program.
+In this week, you will again be delving further into Unix and Python. First, you will learn how to view and modify parts of the environment in Unix-like environments, and then learn how to use vim and vi in Unix.  Finally, you will then delve into the wondrous world of lists, dictionaries, strings, and tuples, where you will learn what these things are, when to use them, how they differ from each other, and how to manipulate them to our liking.
 
 ### Objectives ###
 
 #####By the end of this lesson, you should be able to:######
 
-- Effectively us the Basic Python data structures: list, dictionary, string, & tuple.
-- Open, read, and write to files and work with the underlying file system.
-- Write a Python program that runs at the command Prompt.
-- Read, create, and apply comprehensions and regular expressions
-- Understand the basics of object oriented programming in Python
+- Effectively use the Basic Python data structures: list, dictionary, string, & tuple.
+- Be able to modify and learn about certain environment aspects in shell, with commands such as printenv, set, export, and alias.
+- Know the two basic categories of text editors.
+- Know how to open/create files in a text editor.
+- Know the basics of Vi commands.
+- Manipulate strings within Python using various operators, such as in, and using for loops and the if comparison operator.
+- Manipulate lists using list operators.
+- Know the difference between lists and dictionaries.
+- Understand what a tuple is and how it is different from a list.
+- Apply various functions and operators to a tuple.
+
 
 
 ### Activities and Assignments ###
