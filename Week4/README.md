@@ -19,12 +19,14 @@ In this week, you will transition to more advanced Python programming concepts. 
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 4 Introduction Video](https://mediaspace.illinois.edu/media/Week+Four/1_crygh4oq)**|10 Minutes|Tuesday|NA|
-|**[Week 4 Lesson 1: Python Data Structures](lesson1.md)**| 3 Hours |Thursday| 20|
-|**[Week 4 Lesson 2: Working with the Underlying File System](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 4 Lesson 3: Object-oriented Programming](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 4 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 4 Lesson 1: Unix: Working with Data](lesson1.md)**| 3 Hours |Thursday| 20|
+|**[Week 4 Lesson 2: Python: Strings & Lists](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 4 Lesson 3: Python: Tuples & Dictionaries](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 4 Quiz**| 30 Minutes | Friday | 70|
-|**Week 4 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
+|**Week 4 Assignment Submission to Instructor**| 3 Hours | Saturday | 60 | 
+|**Week 4 Assignment Submission for Peer Grading**| 3 Hours | Sunday | 40| 
+|**Week 4 Assignment Submission of Peer Review**| 3 Hours | *Next* Saturday | 50| 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
