@@ -1,16 +1,18 @@
 # Week 4 Lesson 1 #
-## Python Data Structures ##
+## Unix: Working with Data ##
 
-In this lesson, you will learn about several built-in Python data structures that, if you use them properly, can make writing and maintaining Python programs considerably easier. Specifically, you will learn about the the List, String, Dictionary, and Tuple data structures.
+In this lesson, you will first learn about learn about how to modify and view environment variables within Unix.  Then you will go through some of the ins and outs of the vi text editor within Unix.
 
 ###Objectives ###
 
-By the end of this lesson, you will be able to understand the syntax and utility of the following Python data structures:
+By the end of this lesson, you will:
 
-- List,
-- String,
-- Dictionary, and
-- Tuple.
+- Be able to modify and learn about certain environment aspects in shell, with commands such as printenv, set, export, and alias.
+- Know the difference between environment and shell variables.
+- Know how the environment is established.
+- Know the two basic categories of text editors.
+- Know how to open/create files in a text editor.
+- Know the basics of Vi commands.
 
 ### Time Estimate ###
 
@@ -18,12 +20,12 @@ Approximately 3 hours.
 
 ### Readings ####
 
-Chapters 8, 10-12 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
-
+- Chapters 11-12 in [The Linux Command Line](http://sourceforge.net/projects/linuxcommand/?source=dlp).
+- [The Unix Data Processing iPyNotebook](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week2/unixdp.ipynb) 
 
 #### *Optional Additional Readings*####
 
-Chapter 2, [Dive into Python 3](http://www.diveintopython3.net/index.html).
+- [Learning the vi and Vim Editors, 7th Edition](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/vi/9780596529833)
 
 ### Assessment ###
 
