@@ -21,7 +21,7 @@ Approximately 3 hours.
 ### Readings ####
 
 - Chapters 11-12 in [The Linux Command Line](http://sourceforge.net/projects/linuxcommand/?source=dlp).
-- [The Unix Data Processing iPyNotebook](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week2/unixdp.ipynb) 
+- [The Unix Data Processing IPython Notebook](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week2/unixdp.ipynb) 
 
 #### *Optional Additional Readings*####
 
