@@ -8,7 +8,7 @@ In this lesson, you will learn about the difference between strings and lists, h
 By the end of this lesson, you will be able to:
 
 - Understand what strings are. 
-- Manipulate strings within Python using various operators, such as in, and using for loops and the if comparison operator.
+- Manipulate strings within Python using various operators, such as ```in```, ```for``` loops and the ```if``` comparison operator.
 - Understand what lists are, and how their output is organized.
 - Understand how to call one element of a list
 - Manipulate lists using list operators.
