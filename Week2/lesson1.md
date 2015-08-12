@@ -19,7 +19,7 @@ Approximately 2 hours.
 ### Readings ###
 
 - Read chapters 5-8 from the free book [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine.
-- 
+
 #### *Optional Additional Readings* ####
 
 - Chapter 6 of [Beginning Unix](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/operating-systems-and-server-administration/unix/9780764579943/6-unix-commands-in-depth/13_chap06_html#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODA3NjQ1Nzk5NDMlMkYxM19jaGFwMDZfaHRtbCZxdWVyeT0=)
