@@ -6,10 +6,10 @@ In this lesson, you will learn the basics of networking commands, searching for 
 ###Objectives ###
 By the end of this lesson, you will:
 
-- Understand and be able to use simple networking commands, such as ping, netstat, ftp, wget, etc.
+- Understand and be able to use simple networking commands, such as ```ping, netstat, ftp, wget,``` etc.
 - Be able to explain what the following terms mean: IP address, host and domain name, and URI.
-- Understand how to search for files using locate and find, and also learn other commands associated with finding files: xargs, touch, and stat.
-- Understand how to utilize the archiving commands for Unix-like environments: gzip, bzip2, tar, zip, rsync, etc.
+- Understand how to search for files using locate and find, and also learn other commands associated with finding files: ```xargs, touch, and stat```.
+- Understand how to utilize the archiving commands for Unix-like environments: ```gzip, bzip2, tar, zip, rsync,``` etc.
 
 ### Time Estimate ###
 
