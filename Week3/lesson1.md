@@ -7,8 +7,8 @@ In this lesson, you will learn more details about how Unix-like systems deal wit
 By the end of this lesson, you will:
 
 - Understand how the permissions system imparts system security.
-- Know how to utilize various permissions-based commands, such as 'id, umask, sudo,' etc. 
-- Understand how to use various process-based commands, such as 'ps, top, bg, kill,' etc.
+- Know how to utilize various permissions-based commands, such as [markdown]'id umask sudo,' etc. 
+- Understand how to use various process-based commands, such as [markdown]'ps top bg kill,' etc.
 
 
 ### Time Estimate ###
