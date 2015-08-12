@@ -19,7 +19,7 @@ Approximately 2 hours.
 - Read the [Wikipedia article on Virtualization](https://en.wikipedia.org/wiki/Virtualization).
 - Follow along with the online course  module "[Docker Installation Instruction](https://github.com/UI-DataScience/spring2015/blob/master/week00/docker_running_ipynb.md)".
 - Read and follow along with the [Dockerizing Applications](https://docs.docker.com/userguide/dockerizing/) article in the Docker User guide.
-- Read this iPyNotebook on [Virtualization and Dockers](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week1/virtualization.ipynb)
+- Read this IPython Notebook on [Virtualization and Dockers](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week1/virtualization.ipynb)
   
 #### *Optional Additional Readings*####
 - [An introduction to the Containers](http://googlecloudplatform.blogspot.com/2015/01/in-coming-weeks-we-will-be-publishing.html) from the Google Cloud Computing Blog.
