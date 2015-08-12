@@ -7,7 +7,7 @@ In this lesson, you will first learn about learn about how to modify and view en
 
 By the end of this lesson, you will:
 
-- Be able to modify and learn about certain environment aspects in shell, with commands such as printenv, set, export, and alias.
+- Be able to modify and learn about certain environment aspects in shell, with commands such as ```printenv, set, export, and alias```.
 - Know the difference between environment and shell variables.
 - Know how the environment is established.
 - Know the two basic categories of text editors.
