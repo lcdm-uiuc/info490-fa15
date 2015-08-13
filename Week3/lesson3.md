@@ -18,7 +18,7 @@ Approximately 2 hours.
 ### Readings ####
 
 - Chapters 5-7 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
-- [Fundamental Python Concepts](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week3/fundamentalpy.ipynb), paying special attention to the section on Conditional Statements and Iteration.
+- [Fundamental Python Concepts](notebooks/fundamentalpy.ipynb), paying special attention to the section on Conditional Statements and Iteration.
 
 ## Optional Readings ##
 
