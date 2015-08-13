@@ -20,7 +20,7 @@ Approximately 2 hours.
 ### Readings ####
 
 - Read Chapters 3-4 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf) and try some of the exercises shown in those two chapters.
-- [The Fundamental Python Concepts Notebook](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week3/fundamentalpy.ipynb)
+- [The Fundamental Python Concepts Notebook](notebooks/fundamentalpy.ipynb)
 #### *Optional Additional Readings*####
 
 - [Google Developers Python Setup Guidelines](https://developers.google.com/edu/python/set-up) on starting a Python interpreter or running a Python program at the command line. Note that in this course, the Docker image comes preinstalled with the latest version of Python3, as that is the future of the language. For the most part, there are no major differences that you will notice (the Python texts you will read are for Python 3), but since some optional readings still use Python 2, I want to make this point.
