@@ -29,10 +29,9 @@ detailed instructions.
 
 |Activity|Time Estimate|Deadline|Points|
 |-----|---|---|---|
-|[Course Overview Video](https://mediaspace.illinois.edu/media/Course+Information+Video/1_z8jtrmz2)|15 Minutes|Wednesday|NA|
+|[Course Overview Video](|15 Minutes|Wednesday|NA|
 |[Course Information and Resources](syllabus.md)|1 Hour|Wednesday|NA|
-|[Install Docker & Info490 Container](docker_orientation.md)|1 Hour|Wednesday|NA|
-|[Electronic Reserves Login](Electronic-Reserves-Login.md)|10 Minutes|Wednesday|NA|
+|[Read through the Introduction to GitHub](notebooks/intro2github.ipynb)|1 Hour|Wednesday|NA|
 |[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|30 Minutes|Wednesday|60|
 
 
