@@ -18,7 +18,7 @@ Approximately 2 hours.
 
 - Read chapters 1-4 from the free book [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp), Second Internet Edition, by William E. Shotts, Jr. 
 - Follow along by entering the commands as directed into a terminal window within your Docker container.
-- [Introduction to Unix](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week2/introduction2Unix.ipynb)
+- [Introduction to Unix](notebooks/introduction2Unix.ipynb)
  
 #### *Optional Additional Readings* ####
 - [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
