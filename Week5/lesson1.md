@@ -18,7 +18,7 @@ Approximately 2 hours.
 ### Readings ####
 
 - Chapters 16-18 from [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine. 
-- [Unix Networking Notebook](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week2/unixnetwork.ipynb)
+- [Unix Networking Notebook](notebooks/unixnetwork.ipynb)
 
 #### *Optional Additional Readings*####
 
