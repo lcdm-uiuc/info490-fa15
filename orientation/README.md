@@ -19,7 +19,6 @@ After this module, you should be able to:
 - Recall important information about this course.
 - Update your Moodle profile.
 - Use the technologies required in this course.
-- Setup a working Unix environment, by using the dockers Info490 container provided.
 
 ## Instructional Activities ##
 
