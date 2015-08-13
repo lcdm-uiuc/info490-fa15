@@ -1,6 +1,6 @@
 #Week 1: Introduction to Unix#
 ### Objectives ###
-![Unix Image](images/UNIX-Licence-Plate.JPG)
+![Unix Image](lesson_images/UNIX-Licence-Plate.JPG)
 #####By the end of this lesson, you should be able to:######
 
 - Know the basics about the origin of, and the disciplines that contribute to Data Science.
