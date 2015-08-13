@@ -3,11 +3,9 @@
 ![Unix Image](images/UNIX-Licence-Plate.JPG)
 #####By the end of this lesson, you should be able to:######
 
-- Use a terminal window to interact with the Unix file system.
-- Describe the Unix file permission model.
-- Work with files and processes on a Unix system.
-- Work with Unix file permissions.
-
+- Know the basics about the origin of, and the disciplines that contribute to Data Science.
+- Understand the basic Unix file system and how to create, copy, move, and delete files and directories.
+- Understand the concept of virtualization and be able to run a docker container
 
 ### Activities and Assignments ###
 
