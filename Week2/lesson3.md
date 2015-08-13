@@ -21,7 +21,7 @@ Approximately 2 hours.
 ### Readings ###
 
 - Read Chapters 1-2 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
-- [Introduction to the Python Programming Language](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week3/intro2py.ipynb)
+- [Introduction to the Python Programming Language](notebooks/intro2py.ipynb)
 
 #### *Optional Additional Readings* ####
 - Several free books, mostly written for Python 2:

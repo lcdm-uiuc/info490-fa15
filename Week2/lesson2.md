@@ -22,7 +22,7 @@ Approximately 2 hours.
 	- First, view this online at the provided link
 	- Second, download the notebook (via download icon in the upper right)
 	- Third, upload this notebook to your Docker ipython server and run the commands interactively.
-- [Introduction to the iPython Notebook](https://github.com/ProfessorBrunner/rp-pds15/blob/master/Week3/intro2ipy.ipynb)
+- [Introduction to the iPython Notebook](notebooks/intro2ipy.ipynb)
 - View other notebooks on [nbviewer](http://nbviewer.ipython.org/) website.
 
 #### *Optional Additional Readings*####
