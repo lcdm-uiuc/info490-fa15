@@ -9,13 +9,8 @@ In this week, you will first be delving further into Unix concepts, such as comm
 #####By the end of this lesson, you should be able to:######
 
 - Understand how to utilize various Unix commands.
-- Understand the input/output redirection process and commands for Unix.
-- Understand some of the inner-workings of the shell, such as expansion and quoting.
-- View an IPython notebook on github via the nbviewer.
-- Download an IPython notebook and execute it by using your info490 Docker container.
 - Execute Python commands in an IPython notebook.
 - Know basic Python terminology, such as input, output, debugging, etc.
-- Describe the basic data types provided by the Python language.
 - Perform basic operations on Python variables.
 
 
