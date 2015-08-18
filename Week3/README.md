@@ -8,17 +8,9 @@ This week you will begin to learn how to use the Python programming language to 
 
 #####By the end of this lesson, you should be able to:######
 
-- Understand how the permissions system imparts system security.
 - Know how to utilize various permissions-based commands, such as id, umask, sudo, etc. 
 - Understand how to use various process-based commands, such as ps, top, bg, kill, etc.
-- Perform a python function call.
-- Know the difference between different types of functions.
-- Be able to define new functions.
-- Understand how simple for loops work.
-- Understand why generalization should be used.
-- Write and use conditional statements in Python.
-- Write Python functions that return data.
-- Write and use iteration statements in Python.
+- Be able to define new functions in Python.
 
 ### Activities and Assignments ###
 
