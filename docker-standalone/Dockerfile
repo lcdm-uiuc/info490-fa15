@@ -10,14 +10,8 @@ RUN apt-get update && \
     # fonts needed in seaborn 
     ttf-liberation \ 
     ttf-bitstream-vera \
-    python3-bs4 && \
-
-    pip3 install bokeh \
-    nbgrader && \
-
-    nbgrader extension install && \
-
-    nbgrader extension activate
+    python3-bs4 \
+    python3-tables 
 
 ADD notebook.sh /
 
