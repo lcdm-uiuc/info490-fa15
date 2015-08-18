@@ -10,16 +10,7 @@ In this week, you will again be delving further into Unix and Python. First, you
 
 - Effectively use the Basic Python data structures: list, dictionary, string, & tuple.
 - Be able to modify and learn about certain environment aspects in shell, with commands such as printenv, set, export, and alias.
-- Know the two basic categories of text editors.
-- Know how to open/create files in a text editor.
 - Know the basics of Vi commands.
-- Manipulate strings within Python using various operators, such as in, and using for loops and the if comparison operator.
-- Manipulate lists using list operators.
-- Know the difference between lists and dictionaries.
-- Understand what a tuple is and how it is different from a list.
-- Apply various functions and operators to a tuple.
-
-
 
 ### Activities and Assignments ###
 
