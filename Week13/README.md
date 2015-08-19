@@ -1,4 +1,6 @@
 #Week 13 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![XKCD Tasks comic](images/XKCDMachineLearning.png)
 ## Machine Learning ##
 
