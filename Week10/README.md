@@ -1,4 +1,6 @@
 #Week 10 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![Relational Databases Comic](images/relational_databases.jpg)
 ## Introduction to Data Persistence ##
 
