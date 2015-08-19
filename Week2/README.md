@@ -1,4 +1,6 @@
 #Week 2 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![Command line image](images/command-line.png)
 ## Introduction to Command-Line Data Science ##
 
