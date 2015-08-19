@@ -1,4 +1,6 @@
 #Week 6 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![XKCD Extrapolating](images/extrapolating.png)
 ## Introduction to Data Analysis in Python ##
 
