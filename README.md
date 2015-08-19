@@ -21,4 +21,4 @@ This class is open to sophomores, juniors, seniors and graduate students in any 
 
 Please refer to the [course syllabus](orientation/syllabus.md) for more information about course content and grading policies.
 
-If you have any questions, or if something is not working properly, ***PLEASE*** look through the FAQs wiki page (please look at the right tool bar on the Github course page and click the icon labeled "Wiki" that looks like an open book) before emailing TA or course instructor.  
+###If you have any questions, or if something is not working properly, ***PLEASE*** look through the FAQs wiki page (please look at the right tool bar on the Github course page and click the icon labeled "Wiki" that looks like an open book) before emailing TA or course instructor.  ###
