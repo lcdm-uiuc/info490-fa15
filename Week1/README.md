@@ -11,7 +11,7 @@
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 1 Introduction Video](** | 10 Minutes | Tuesday | NA|
+|**[Week 1 Introduction Video](** | 10 Minutes | Tuesday |20|
 |**[Week 1 Lesson 1: Intro to Data Science](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 1 Lesson 2: JupyterHub/The Unix Shell](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 1 Lesson 3: Virtualization/Dockers](lesson3.md)**| 2 Hours | Thursday| 20 |
