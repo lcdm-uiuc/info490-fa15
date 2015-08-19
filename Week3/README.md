@@ -1,4 +1,6 @@
 #Week 3 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![python logo](images/python-logo.png)
 ## A Further Exploration into the Python Programming Language and Unix ##
 
