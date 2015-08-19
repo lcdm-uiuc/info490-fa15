@@ -1,5 +1,7 @@
 #Week 1: Introduction to Unix#
 ### Objectives ###
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![Unix Image](lesson_images/UNIX-Licence-Plate.JPG)
 #####By the end of this lesson, you should be able to:######
 
