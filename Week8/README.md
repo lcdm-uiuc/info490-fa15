@@ -1,4 +1,6 @@
 #Week 8 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![Pandas logo](images/pandas_logo.png)
 ## Time Series Data ##
 
