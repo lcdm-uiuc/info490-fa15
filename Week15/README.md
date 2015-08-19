@@ -1,4 +1,6 @@
 #Week 15 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![Blue Waters Supercomputer](images/bluewatersimage.jpg)
 ## Introduction to High Performance Computing with Python ##
 
