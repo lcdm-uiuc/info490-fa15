@@ -1,4 +1,6 @@
 #Week 11 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![SQLite Python Logo](images/sqlite_python_logo.png)
 ## Advanced Data Persistence ##
 
