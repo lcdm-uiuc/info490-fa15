@@ -20,7 +20,9 @@ Approximately 2 hours.
 
 #### *Optional Additional Readings*####
 
-- 
+- Chapter 6 of [Unix and Linux: Visual Quickstart Guide, Fifth Edition](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/operating-systems-and-server-administration/unix/9780133793871)
+- Chapter 8 of [Beginning Unix](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/operating-systems-and-server-administration/unix/9780764579943)
+- Chapter 5 of [Think Unix](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/operating-systems-and-server-administration/unix/078972376x)
 
 
 ### Assessment ###
