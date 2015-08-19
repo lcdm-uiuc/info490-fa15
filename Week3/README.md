@@ -16,7 +16,7 @@ This week you will begin to learn how to use the Python programming language to 
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 3 Introduction Video]( **|10 Minutes|Tuesday|NA|
+|**[Week 3 Introduction Video]( **|10 Minutes|Tuesday|20|
 |**[Week 3 Lesson 1:Unix File System & Processes](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 3 Lesson 2:Python: Functions](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 3 Lesson 3:Python: Conditional Statements & Iteration](lesson3.md)**| 2 Hours | Thursday| 20 |
