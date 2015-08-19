@@ -28,7 +28,7 @@ detailed instructions.
 
 |Activity|Time Estimate|Deadline|Points|
 |-----|---|---|---|
-|[Course Overview Video](|15 Minutes|Wednesday|NA|
+|[Course Overview Video](|15 Minutes|Wednesday|20|
 |[Course Information and Resources(Syllabus)](syllabus.md)|1 Hour|Wednesday|NA|
 |[Read through the Introduction to GitHub](notebooks/intro2github.ipynb)|1 Hour|Wednesday|NA|
 |Orientation Quiz| 30 minutes | Wednesday | 70|
