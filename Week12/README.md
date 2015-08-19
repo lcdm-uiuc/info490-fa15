@@ -1,4 +1,6 @@
 #Week 12 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![Data Mining comic strip](images/datamining1.jpg)
 ## Data Exploration ##
 
