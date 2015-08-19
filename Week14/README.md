@@ -1,4 +1,6 @@
 #Week 14 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![Cloud Computing Comic](images/cloudcomputing.png)
 ## Introduction to Cloud Computing ##
 
