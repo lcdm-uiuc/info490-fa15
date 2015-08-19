@@ -1,4 +1,6 @@
 #Week 7 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![conditional_risk comic from XKCD](images/conditional_risk.png)
 ## Introduction to Statistical Analysis ##
 
