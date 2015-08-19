@@ -1,4 +1,6 @@
 #Week 5 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![XKCD sustainability comic](images/xkcd_sustainable.png)
 ## Data Visualization ##
 
