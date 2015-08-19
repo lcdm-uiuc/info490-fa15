@@ -1,4 +1,6 @@
 #Week 9 Overview#
+![Draft Image](../images/Draft_Version_picture.png)
+
 ![Data Processing Comic](images/BBQ.gif)
 ## Introduction to Data Processing ##
 
