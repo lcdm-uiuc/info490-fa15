@@ -1,6 +1,6 @@
-# INFO 490: Introduction to Data Science #
+# INFO 490: Foundations of Data Science #
 
-INFO 490: Introduction to Data Science uses an project-based approach to
+INFO 490: Foundations of Data Science uses an project-based approach to
 indoctrinate students into the tools and technologies necessary for
 working with large data.
 
@@ -8,24 +8,30 @@ working with large data.
 
 Upon completion of this course, students will be expected to understand
 the basic concepts of data science. Students will learn how to work at a
-Unix prompt and how to use the Python programming language to process,
-visualize, persist, model, and mine large data sets.
+Unix prompt, how to use the Python programming language to process,
+visualize, and persist large data sets, and how to use database
+technologies including SQL.
 
 ## Prerequisites ##
 
 There are no pre-requisites for this course, except for an interest in
 learning the basic skills necessary for being a data scientist and
 access to a computer to participate in the course lectures, and to
-complete the required course assignments. NOTE: To complete the
-assignments in this course, a student will need to have root access to a
-UNIX system, for example a Linux or mac based computer. Since installing
-all of the software we use in this class can be difficult, we strongly
-encourage students to use a virtual machine in which we have
+complete the required course assignments. NOTE: At this point in time,
+we plan to use a JupyterHub server running on a private cloud computing
+system maintained by NCSA. Alternatively, students can elect to use
+their own computer system to perform many of the requirements for this
+course (assignment submission and peer assessment are still done via the
+private cloud, however). If students wish to also run a local copy of
+this JupyterHub server, they will need to have root access to a UNIX
+system, for example a Linux or mac based computer. Since installing all
+of the software we use in this class can be difficult, we strongly
+encourage students to use a virtual docker image in which we have
 pre-installed all course software. Thus, before starting the online
 course, students will be expected to have successfully installed the
 course-specific virtual machine (this requires installing the freely
-available Docker application). Instructions are provided in the
-Mandatory Orientation Module of this Moodle course site.
+available Docker application). Instructions are provided on the course
+Github site.
 
 ## Texts ##
 
@@ -61,12 +67,25 @@ Each week will provide learning objectives and an outline of the
 activities for that week with a list of all deadlines and corresponding
 point values for assignments.
 
+### Videos ###
+
+Each week there will be at least one video that will offer a broader
+context for the new week, explain key concepts, and demonstrate
+important tasks. To view them, you will need to login to the Illinois
+Mediaspace (links are embedded in the relevant weekly overview (and
+occasionally a lesson). By viewing all videos for a week, you will be
+given twenty points. In case you are wondering, Illinois Mediaspace tracks
+the viewing of course videos.
+
 ### Readings ###
 
-Readings will consist of articles and excerpts from books and Web sites.
-You will be required to read and be familiar with the content of these
-documents. Readings are contextualized as part of the weekly lesson
-content and are located in the "Background" section of each lesson.
+Readings will consist of articles and excerpts from books and Web sites,
+and in some cases IPython Notebooks that can be viewed statically on the
+Github website, or (via the preferred approach) by interacting with them
+via the course JupyterHUb server. You will be required to read and be
+familiar with the content of these documents. Readings are
+contextualized as part of the weekly lesson content and are located in
+the "Readings" section of each lesson.
 
 ### Lessons ###
 
@@ -77,8 +96,8 @@ week must be completed by 6:00 PM Central on Thursday of that week.
 ### Lesson Assessments ###
 
 Each week will contain three lesson modules (except for the last week,
-which will contain only one). A lesson module will will include a quiz
-designed to be taken after completing the readings and carefully
+which will contain only one). A lesson module will will include a Moodle
+quiz designed to be taken after completing the readings and carefully
 reviewing the lesson material. Lesson quizzes will allow two attempts,
 to ensure students have mastered the relevant material before advancing
 to the next lesson module. The lessons assessments must all be completed
@@ -86,11 +105,13 @@ by 6:00 PM Central on Thursday of that week.
 
 ### Assignments ###
 
-Each week will contain an assignment that will involve one or more
-computational tasks related to the focus for that given week. The
-assignment must be submitted via the Moodle Workshop tool for the
-relevant week. The Assignment is due by 6:00 PM Central on Saturday of
-that week. No submissions will be accepted past this deadline.
+Every week but the first and last will contain an assignment that will
+involve one or more computational tasks related to the focus for that
+given week. The assignment will be automatically extracted from your
+JupyterHub server at the indicated deadline. You will have a 24-hour
+late period, at which a second extraction process will be performed. No
+assignment will be accepted past this deadline. The full credit
+assignment deadline is 6:00 PM Central on Saturday of that week. 
 
 ### Peer Review ###
 
@@ -102,7 +123,9 @@ Note that you can (and should) still grade your peers even if you miss
 an assignment submission. Peer review of an assignment must be completed
 by 6:00 PM Central on Tuesday of the following week (i.e., you submit
 your assignment on a Saturday and then must peer assess other students
-assignments by the following Tuesday).
+assignments by the following Tuesday). You will be assigned assignments
+to grade approximately one hour after the late assignment deadline, thus
+around 7:00 pm Sunday evening.
 
 ### Weekly Quizzes ###
 
@@ -122,12 +145,24 @@ are no exams in this course.
 ### Grading Distribution ###
 |Assignment | Points| Occurrences| Total Points |
 |-----------|-----|-----|-----|
-|Pre-Class Activity: Introduce Yourself| 70|1|70|
+|Pre-Class Activity: Introduce Yourself| 60|1|60|
 |Orientation Quiz|70|1|70|
 |Lesson Assessments|60|14 (Week 15 is only 20 points)|860|
-|Weekly Quizzes|70|15(Week 1 is only 40 points|1020|
-|Assignments (Weeks 1-14)|150|14 (Week 1 is only 30 points)|1980|
-|***Total***|||***4000***|
+|Weekly Quizzes|70|14 (No quiz in Week 15)|980|
+|Weekly Videos|20|16 (including the Orientation Week video)|320|
+|Assignments (Weeks 2-14)|150|13 |1950|
+|***Total***|||***4240***|
+
+Note, after the lowest three weekly scores are dropped from weeks 2-14, 
+the maximum total score for the class is **3340**.
+
+### Missed Weeks ###
+
+While you are still strongly encouraged to complete all activities in
+the course, we will drop your three lowest weekly grades from the second
+to the fourteenth weeks. Since later topics build on earlier topics,
+however, it is in your best interest to still complete all readings,
+even if after the relevant deadline.
 
 ### Grading Scale ###
 

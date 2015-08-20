@@ -24,13 +24,16 @@ After this module, you should be able to:
 
 Below is a list of the activities and assignments you must complete in
 this orientation module. Click on the name of each activity for more
-detailed instructions.
+detailed instructions. Please do these activities before starting with
+the normal class material. To facilitate late enrollment, these items
+will not be formally due until the relevant day of the second week of
+the course
 
 |Activity|Time Estimate|Deadline|Points|
 |-----|---|---|---|
 |[Course Overview Video](|15 Minutes|Wednesday|20|
 |[Course Information and Resources(Syllabus)](syllabus.md)|1 Hour|Wednesday|NA|
-|[Read through the Introduction to GitHub](notebooks/intro2github.ipynb)|1 Hour|Wednesday|NA|
+|[Read through the Introduction to JupyterHub](notebooks/intro2Server.ipynb) Notebook|1 Hour|Wednesday|NA|
 |Orientation Quiz| 30 minutes | Wednesday | 70|
 |[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|30 Minutes|Wednesday|60|
 
