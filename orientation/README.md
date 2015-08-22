@@ -31,7 +31,7 @@ the course.
 
 |Activity|Time Estimate|Deadline|Points|
 |-----|---|---|---|
-|[Course Overview Video](|15 Minutes|Wednesday|20|
+|[Course Overview Video][OV]|15 Minutes|Wednesday|20|
 |[Course Information and Resources(Syllabus)](syllabus.md)|1 Hour|Wednesday|NA|
 |Read through the [Introduction to JupyterHub](notebooks/intro2server.ipynb) Notebook|1 Hour|Wednesday|NA|
 |Orientation Quiz| 30 minutes | Wednesday | 70|
@@ -62,3 +62,6 @@ submit completed materials as soon as submission capability is restored.
 class. As a learning community, we can help each other learn and grow.
 One way of doing this is by helping to address the questions that your
 peers pose. By engaging with each other, we'll all learn better.
+
+-----
+[OV]: https://mediaspace.illinois.edu/media/Orientation+Video/1_4wrksitx
