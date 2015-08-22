@@ -202,6 +202,6 @@ Before you submit, you can review the changes and comment on the PR. If it is a 
 
 This is optional, but after your PR is merged or closed, you can delete the branch. See [Deleting unused branches](https://help.github.com/articles/deleting-unused-branches/).
 
-![[](images/pull_request_4.png)
+![](images/pull_request_4.png)
 
 This document was actually posted as a PR. See [the PR on how to submit a pull request](https://github.com/UI-DataScience/info490-fa15/pull/1) that pushed this file to the course repository.
