@@ -27,7 +27,7 @@ this orientation module. Click on the name of each activity for more
 detailed instructions. Please do these activities before starting with
 the normal class material. To facilitate late enrollment, these items
 will not be formally due until the relevant day of the second week of
-the course
+the course.
 
 |Activity|Time Estimate|Deadline|Points|
 |-----|---|---|---|

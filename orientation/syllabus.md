@@ -17,21 +17,66 @@ technologies including SQL.
 There are no pre-requisites for this course, except for an interest in
 learning the basic skills necessary for being a data scientist and
 access to a computer to participate in the course lectures, and to
-complete the required course assignments. NOTE: At this point in time,
-we plan to use a JupyterHub server running on a private cloud computing
-system maintained by NCSA. Alternatively, students can elect to use
-their own computer system to perform many of the requirements for this
-course (assignment submission and peer assessment are still done via the
-private cloud, however). If students wish to also run a local copy of
-this JupyterHub server, they will need to have root access to a UNIX
-system, for example a Linux or mac based computer. Since installing all
-of the software we use in this class can be difficult, we strongly
-encourage students to use a virtual docker image in which we have
-pre-installed all course software. Thus, before starting the online
-course, students will be expected to have successfully installed the
-course-specific virtual machine (this requires installing the freely
-available Docker application). Instructions are provided on the course
-Github site.
+complete the required course assignments. 
+
+Note: At present, students are required to use their own computer system
+to perform many of the requirements for this course. We hope to
+eventually enable at least soem students to use a cloud computing
+approach to interacting with the course material. Until that time,
+however, we recommend the following process to prepare your computer for
+this course:
+
+1. We have made a Docker image for this course (this is similar to what
+we have done previously when we have taught this course). To use this
+course image, you need to download and install Docker Machine. To use
+Docker, which will provide a Unix shell with all of our required course
+software for nearly all modern computing platforms, you should go to the
+[Docker website](https://www.docker.com) and click the _Get Started with
+Docker_ button. This will give you instructions for downloading and
+installing Docker machine on your computer. Note that this will only
+work for ‘fairly’ modern computers that support hardware virtualization.
+On some computers, hardware virtualization must be enabled in your
+computer BIOS. If you have questions about this process, including BIOS
+changes, please consult the course assistants or instructor. Once the
+course opens, you will have more details instructions on how to pull our
+course Docker image, start the image to have a running container, and
+how to download and install the course github repository in your running
+Docker container.
+
+2. If your computer is unable to support hardware virtualization, you
+will (most likely) be unable to run Docker. Your options depend on the
+type of computer you are using:
+
+  2a. If you are running Mac OSX or Linux you can instead use a free
+  Python package manager to install required software (more information
+  will be forthcoming). You can download Anaconda, you *need* the
+  version that supports Python 3.4, from [Continuum
+  Analytics](http://continuum.io/downloads#py34). In this case, you will
+  simply use a BASH shell on your computer to learn the Unix commands.
+  If possible, however, you should still use Docker to (a) have an
+  isolated environment where you can’t accidentally delete or change
+  important system files and (b) learn about virtualization technologies.
+
+  2b. If you have an older Windows laptop, you have several,
+  unsatisfactory options. This is because Windows is not Unix. We can
+  offer only limited support for these options since they are beyond the
+  context of this course.
+
+   - You can install and use Cygwin. It will create a Unix like
+   environment, but there will be differences.
+
+   - You could use (potentially free) cloud resources from Google,
+   Amazon, Microsoft, Backspace, Cloudier, etc., to complete the course
+   material.
+
+Once you have downloaded Docker machine, you will need to pull our
+course Docker image in order to have an effective working environment.
+Instructions for doing this are included in [Lesson 2 for Week
+1](../Week1/Lesson2.md) of the course (on virtualization and Dockers).
+Once your have the course Docker container running, you will need to use
+git to clone the course repository. At this point you will have a full
+working course setup. You will also be instructed how to do this in
+Lesson 2 of Week 1.
 
 ## Texts ##
 
@@ -107,25 +152,30 @@ by 6:00 PM Central on Thursday of that week.
 
 Every week but the first and last will contain an assignment that will
 involve one or more computational tasks related to the focus for that
-given week. The assignment will be automatically extracted from your
-JupyterHub server at the indicated deadline. You will have a 24-hour
-late period, at which a second extraction process will be performed. No
-assignment will be accepted past this deadline. The full credit
-assignment deadline is 6:00 PM Central on Saturday of that week. 
+given week. 
+
+Instructions for submitting assignments will be forthcoming. To receive
+full credit from instructor grading, your assignment must be submitted
+prior to the deadline. There will be a 24-hour grace period, in which an
+assignment can be submitted, albeit with an automatic 50% reduction in the
+maximum possible score. After this grace period, no assignments will be
+accepted. The full credit assignment deadline is 6:00 PM Central on
+Saturday of the relevant week. 
 
 ### Peer Review ###
 
-Weekly assignments will be reviewed by course peers, as well as the
-instructor. 40% of the grade for each weekly assignment submission will
-derive from peer review, 60% from instructor review. You will receive 50
-pts each week for simply viewing and grading your peers' assignments.
-Note that you can (and should) still grade your peers even if you miss
-an assignment submission. Peer review of an assignment must be completed
-by 6:00 PM Central on Tuesday of the following week (i.e., you submit
-your assignment on a Saturday and then must peer assess other students
-assignments by the following Tuesday). You will be assigned assignments
-to grade approximately one hour after the late assignment deadline, thus
-around 7:00 pm Sunday evening.
+Weekly assignments will be reviewed by your course peers, as well as
+automatic instructor grading. 40% of the grade for each weekly
+assignment submission will derive from peer review, 60% from instructor
+review. You will receive 50 pts each week for simply viewing and grading
+your peers' assignments. Note that you can (and should) still grade your
+peers even if you miss an assignment submission. Peer review of an
+assignment must be completed by 6:00 PM Central on Tuesday of the
+following week (i.e., you submit your assignment on a Saturday and then
+must peer assess other students assignments by the following Tuesday).
+You will be assigned assignments to grade approximately one hour after
+the late assignment deadline, thus around 7:00 pm Sunday evening of each
+week.
 
 ### Weekly Quizzes ###
 
@@ -142,6 +192,15 @@ progressively on content mastery, application, and peer review; there
 are no exams in this course.
 
 ## Grading ##
+
+### Missed Weeks ###
+
+While you are still strongly encouraged to complete all activities in
+the course, we will drop your three lowest weekly grades from the second
+to the fourteenth weeks. Since later topics build on earlier topics,
+however, it is in your best interest to still complete all readings,
+even if after the relevant deadline.
+
 ### Grading Distribution ###
 |Assignment | Points| Occurrences| Total Points |
 |-----------|-----|-----|-----|
@@ -155,14 +214,6 @@ are no exams in this course.
 
 Note, after the lowest three weekly scores are dropped from weeks 2-14, 
 the maximum total score for the class is **3340**.
-
-### Missed Weeks ###
-
-While you are still strongly encouraged to complete all activities in
-the course, we will drop your three lowest weekly grades from the second
-to the fourteenth weeks. Since later topics build on earlier topics,
-however, it is in your best interest to still complete all readings,
-even if after the relevant deadline.
 
 ### Grading Scale ###
 
