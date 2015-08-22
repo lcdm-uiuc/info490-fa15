@@ -2,9 +2,11 @@
 
 ***Professor:*** Dr. Robert Brunner
 
-***TA:*** Edward Kim
+***Teaching Assistants:*** 
 
-***Course Designer:*** Sam Thrush
+1. Avinash Balakrishnan
+2. Edward Kim (Lead)
+3. Sam Thrush
 
 This class is an asynchronous, online course. This course will build a practical foundation for data science
 by teaching students basic tools and techniques that can scale to large computational systems and massive data sets.
@@ -21,4 +23,4 @@ This class is open to sophomores, juniors, seniors and graduate students in any 
 
 Please refer to the [course syllabus](orientation/syllabus.md) for more information about course content and grading policies.
 
-###If you have any questions, or if something is not working properly, ***PLEASE*** look through the FAQs wiki page (please look at the right tool bar on the Github course page and click the icon labeled "Wiki" that looks like an open book) before emailing TA or course instructor.  ###
+**If you have any questions, or if something is not working properly, ***PLEASE*** look through the FAQs wiki page (please look at the right tool bar on the Github course page and click the icon labeled "Wiki" that looks like an open book) before emailing TA or course instructor.**
