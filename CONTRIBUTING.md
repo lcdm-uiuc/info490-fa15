@@ -2,35 +2,36 @@
 
 If you would like to request or suggest a change in the course material on our GitHub repository, use [pull requests](https://help.github.com/articles/using-pull-requests/) (PRs).
 
-You are reading one of the lessons and assignments on our course GitHub repository, and you find a typo. Or, one of the code cells in a notebook does not work, and you know how to fix it. You could email one of the instructional staff or ask in the Q&A forum, the recommended way is to use a more sophisticated approach and submit a pull request (PR). In the following, I will walk through the steps for creating the PR that added [How to Do a GItHub Pull Request](CONTRIBUTING.md) to our course repository.
+You are reading one of the lessons and assignments on our course GitHub repository, and you find a typo. Or, one of the code cells in a notebook does not work, and you know how to fix it. You could email one of the instructional staff or ask in the Q&A forum, but the recommended way is to use a more sophisticated approach and submit a pull request (PR). In the following, I will walk you through the steps for creating the PR that added [How to Do a GItHub Pull Request](CONTRIBUTING.md) to our course repository.
 
 The basic steps are: (some are optional, but I recommend that you do all the steps.)
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the course repository.
-2. Clone your forked repository.
-3. Sync your fork with the original course repsitory.
-4. Create a branch.
+2. [Clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) your forked repository.
+3. [Sync](https://help.github.com/articles/syncing-a-fork/) your fork with the original course repsitory.
+4. Create a [branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 5. Make changes.
-6. Stage and commit the changes.
-7. Push the changes to your fork.
+6. [Stage and commit](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) the changes.
+7. [Push](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes) the changes to your fork.
+8. Submit a pull request.
 
 ## Detailed Example
 
-I will do this in the command line, but once you understand the flow, you can also use the [GitHub Desktop](https://desktop.github.com/). Note also that more detailed guide can be found elsewhere (e.g. on [GitHub](https://help.github.com/)), and the following example is specific to our course.
+I will do this in the command line, but once you understand the flow, you can also use the [GitHub Desktop](https://desktop.github.com/). Note also that more detailed guide can be found elsewhere (e.g. on [GitHub](https://help.github.com/)). The following example uses our course repository.
 
 ### 1. Fork the course repoistory.
 
 First, you go to our [course repository](https://github.com/UI-DataScience/info490-fa15), and fork the course repository by clicking `Fork` in the upper right corner.
 
-![fork before image](images/pull_request_0.png)
+![](images/pull_request_0.png)
 
 Now, notice that your copy of the repository has your username, and it says `forked from UI-DataScience/info490-fa15`.
 
-![fork after image](images/pull_request_1.png)
+![](images/pull_request_1.png)
 
 ### 2. Clone the forked repository.
 
-At the Unix shell, use `git clone` to clone the **forked** repository (the one with your username in it). Change into the new directory.
+At the Unix shell, use `git clone` to clone the **forked** repository (the one with your username in it; you should obviously change `EdwardJKim` to your username). Change into the new directory.
 
 ```shell
 $ git clone https://github.com/EdwardJKim/info490-fa15
@@ -191,12 +192,16 @@ $ git push origin master
 
 Now the final step: actually submitting a pull request. Open your web browser, and go back to your fork. I pushed the `pull_request_guide` in step 7, so GitHub repository now shows an option to **Compare & pull request**. Click it.
 
-![pull request iamge](images/pull_request_2.png)
+![](images/pull_request_2.png)
 
 Before you submit, you can review the changes and comment on the PR. If it is a simple PR like a typo fix, it will probably be accepted quickly after it is reviewed by the instuctional staff. If it is code change, the PR will likely start a discussion before it is finally accepted, so please try to describe clearly what the PR is about in the comments.
 
-![pull request iamge](images/pull_request_3.png)
+![](images/pull_request_3.png)
 
 ### 9. Delete the branch.
 
 This is optional, but after your PR is merged or closed, you can delete the branch. See [Deleting unused branches](https://help.github.com/articles/deleting-unused-branches/).
+
+![[](images/pull_request_4.png)
+
+This document was actually posted as a PR. See [the PR on how to submit a pull request](https://github.com/UI-DataScience/info490-fa15/pull/1) that pushed this file to the course repository.
