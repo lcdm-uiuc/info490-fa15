@@ -8,7 +8,7 @@ The basic steps are: (some are optional, but I recommend that you do all the ste
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the course repository.
 2. [Clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) your forked repository.
-3. [Sync](https://help.github.com/articles/syncing-a-fork/) your fork with the original course repsitory.
+3. [Add](https://help.github.com/articles/configuring-a-remote-for-a-fork/) upstream.
 4. Create a [branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 5. Make changes.
 6. [Stage and commit](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) the changes.
@@ -48,7 +48,7 @@ Your branch is up-to-date with 'origin/master'.
 nothing to commit, working directory clean
 ```
 
-### 3. Sync your fork with the original course repsitory.
+### 3. Add upstream.
 
 This is perhaps optional, but imagine that while you are making your own changes, someone else makes a change in the original course repository. You would want to [sync your fork](https://help.github.com/articles/syncing-a-fork/) to keep your copy updated. So we will add the upstream to keep track of the changes in the original repository. You can use `git remote` to see which GitHub repositories are tracked in your local Git repository.
 
@@ -69,7 +69,19 @@ upstream        https://github.com/UI-DataScience/info490-fa15 (fetch)
 upstream        https://github.com/UI-DataScience/info490-fa15 (push)
 ```
 
-#### 4. Create a branch.
+After adding the original repository, you can either choose between the original repository and the forked repository. To pull (or fetch and merge) the `master` branch of the original repository (`upstream`), run
+
+```shell
+$ git pull upstream master
+```
+
+To pull the forked repository (`origin`), run
+
+```shell
+$ git pull origin master
+```
+
+### 4. Create a branch.
 
 This is also optional because you can always work on your `master` and send a PR to UI-DataScience's `master`, but I think it's good practice to create a seprate branch for each distinct feature change. Let's first create a branch named `pull_request_guide`.
 
@@ -77,14 +89,14 @@ This is also optional because you can always work on your `master` and send a PR
 $ git branch pull_request_guide
 ```
 
-Not we want to move into this branch with `git checkout` before making changes.
+Now we want to move into this branch with `git checkout` before making changes.
 
 ```shell
 $ git checkout pull_request_guide
 Switched to branch 'pull_request_guide'
 ```
 
-Note that these two commands can be combined in one line:
+Note that these two commands can be combined in one line. The `-b` option in `git checkout` creates a new branch if it doesn't exist before checking it out.
 
 ```shell
 $ git checkout -b pull_request_guide
@@ -185,7 +197,7 @@ $ git commit -m "Add instructions on how to submit a pull request"
 Use `git push` to upload the changes made in the local repository to your GitHub repository.
 
 ```shell
-$ git push origin master
+$ git push origin pull_request_guide
 ```
 
 ### 8. Submit a pull request.
@@ -204,4 +216,10 @@ This is optional, but after your PR is merged or closed, you can delete the bran
 
 ![](images/pull_request_4.png)
 
-This document was actually posted as a PR. See [the PR on how to submit a pull request](https://github.com/UI-DataScience/info490-fa15/pull/1) that pushed this file to the course repository.
+Furthermore, if your PR gets accepted, the original course repository will change as a result of your PR. You will want your local repository to reflect this change. Now, you can do
+
+```shell
+git pull upstream master
+```
+
+This document was actually submitted to the course repository as a PR. See [the PR on how to submit a pull request](https://github.com/UI-DataScience/info490-fa15/pull/1) that pushed this file to the course repository.
