@@ -88,7 +88,7 @@ material to the lesson content.
 
 | **Week** | **Topics**| **Assignments**|
 |----------|-----------|----------------|
-|*Orientation Week*| Course Overview & Syllabus Review| Pre-Class Activity: Introduce Yourself <br /> Github Registration and Introduction<br /> Orientation Quiz|
+|*Orientation Week*| Course Overview & Syllabus Review| [Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md) <br /> Github Registration and Introduction<br /> Orientation Quiz|
 |*Week 1*| Introduction to Data Science| [Week 1 Lesson 1: Intro to Data Science](../Week1/lesson1.md) <br /> [Week 1 Lesson 2: Virtualization/Dockers](../Week1/lesson2.md)<br /> [Week 1 Lesson 3: JupyterHub/The Unix Shell](../Week1/lesson3.md) <br /> Week 1 Assignment <br/> Week 1 Quiz|
 |*Week 2*| Introduction to Unix, Python, and iPython | [Week 2 Lesson 1: Basic Unix Concepts](../Week2/lesson1.md)<br /> [Week 2 Lesson 2: Intro to iPython](../Week2/lesson2.md)<br /> [Week 2 Lesson 3: Intro to Python](../Week2/lesson3.md)<br /> Week 2 Assignment<br /> Week 2 Quiz|
 | *Week 3*| Introduction to the Python Programming Language| [Week 3 Lesson 1: Unix File System & Processes](../Week3/lesson1.md)<br /> [Week 3 Lesson 2: Python: Functions](../Week3/lesson2.md)<br /> [Week 3 Lesson 3: Python: Conditional Statements & Iteration](../Week3/lesson3.md)<br /> Week 3 Assignment<br /> Week 3 Quiz|
