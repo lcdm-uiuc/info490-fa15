@@ -192,7 +192,7 @@ This is demonstrated in the following screenshot. We have added one
 additional command, however, `docker-machine ip default` in order to
 know on which IP address our server is listening.
 
-![Docker Shared Volumes](images/docker-shared.png)
+![Docker Server Running](images/docker-server.png)
 
 In this case, our server is running on `192.168.99.100` but your value
 might be different. To connect to our running server, open up the web
