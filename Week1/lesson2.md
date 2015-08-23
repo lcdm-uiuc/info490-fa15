@@ -1,8 +1,8 @@
 # Week 1 Lesson 2 #
-## Virtualization and Dockers ##
+## Virtualization and Docker ##
 
 In this lesson you will learn about virtualization, and specifically the
-Dockers technology.  Note that you may have already completed many of
+Docker technology.  Note that you may have already completed some of
 these tasks during the Orientation Week.
 
 ###Objectives ###
@@ -10,8 +10,8 @@ these tasks during the Orientation Week.
 By the end of this lesson, you will be able to:
 
 - Understand the concept of virtualization
-- Install Dockers
-- Install and run a docker container
+- Install Docker
+- Install and run the course Docker container
 
 ### Time Estimate ###
 
@@ -19,21 +19,20 @@ Approximately 2 hours.
 
 ### Readings ####
 - Read the [Wikipedia article on Virtualization](https://en.wikipedia.org/wiki/Virtualization).
-- Follow along with the online course  module "[Docker Installation
-Instruction](notebooks/docker_running_ipynb.md)".
-- Read and follow along with the [Dockerizing
-Applications](https://docs.docker.com/userguide/dockerizing/) article in
-the Docker User guide.
+- Follow the _Get Started with Docker_ documentation for your particular computer type:
+  - [Mac OSX](http://docs.docker.com/mac/started/)
+  - [Windows](http://docs.docker.com/windows/started/)
+  - [Linux](http://docs.docker.com/linux/started/)
+  You do not need to complete any steps past the _Find and run the whalesay image_ step.
 - Read this IPython Notebook on [Virtualization and
-Dockers](notebooks/virtualization.ipynb)
+Docker](notebooks/virtualization.ipynb)
   
 #### *Optional Additional Readings*####
 
 - [An introduction to the
 Containers](http://googlecloudplatform.blogspot.com/2015/01/in-coming-
 weeks-we-will-be-publishing.html) from the Google Cloud Computing Blog.
-- Try out [Dockers](https://hub-beta-stage.docker.com/enterprise/trial/)
-online.
+- Complete any remaining steps in the _Get Started with Docker_ documentation.
 
 ### Assessment ###
 

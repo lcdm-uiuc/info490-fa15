@@ -1,13 +1,13 @@
 #Week 1: Introduction to Unix#
 ### Objectives ###
-![Draft Image](../images/Draft_Version_picture.png)
 
 ![Unix Image](lesson_images/UNIX-Licence-Plate.JPG)
+
 #####By the end of this lesson, you should be able to:######
 
 - Know the basics about the origin of, and the disciplines that contribute to Data Science.
+- Understand the concept of virtualization and be able to run the course Docker container
 - Understand the basic Unix file system and how to create, copy, move, and delete files and directories.
-- Understand the concept of virtualization and be able to run a docker container
 
 ### Activities and Assignments ###
 
@@ -15,8 +15,8 @@
 |:------| -----|-------|----------:|
 |**[Week 1 Introduction Video](** | 10 Minutes | Tuesday |20|
 |**[Week 1 Lesson 1: Intro to Data Science](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 1 Lesson 2: Virtualization/Dockers](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 1 Lesson 3: The Unix Shell/JupyterHub](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 1 Lesson 2: Virtualization/Docker](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 1 Lesson 3: The Unix Shell/Jupyter Notebook Server](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 1 Quiz**| 30 Minutes | Friday | 40|
 |**Week 1 Assignment**| 1 Hour | Saturday | 30 | 
 
