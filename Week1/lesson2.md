@@ -23,6 +23,7 @@ Approximately 2 hours.
   - [Mac OSX](http://docs.docker.com/mac/started/)
   - [Windows](http://docs.docker.com/windows/started/)
   - [Linux](http://docs.docker.com/linux/started/)
+  
   You do not need to complete any steps past the _Find and run the whalesay image_ step.
 - Read this IPython Notebook on [Virtualization and
 Docker](notebooks/virtualization.ipynb)
