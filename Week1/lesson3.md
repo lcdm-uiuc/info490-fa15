@@ -23,7 +23,7 @@ Approximately 2 hours.
 Internet Edition, by William E. Shotts, Jr. 
 - Follow along by entering the commands as directed into a terminal
 window within your Docker container.
-- [Introduction to Unix](notebooks/introduction2unix.ipynb)
+- Explore the INFO490 Course [Introduction to Unix](notebooks/introduction2unix.ipynb) Notebook
  
 #### *Optional Additional Readings* ####
 - [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
