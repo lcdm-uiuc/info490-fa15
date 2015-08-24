@@ -26,9 +26,8 @@ In this week, you will first be delving further into Unix concepts, such as comm
 |**[Week 2 Lesson 2: Introduction to iPython](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 2 Lesson 3: Introduction to Python](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 2 Quiz**| 30 Minutes | Friday | 70|
-|**Week 2 Assignment Submission to Instructor**| 3 Hours | Saturday | 60 | 
-|**Week 2 Assignment Submission for Peer Grading**| 3 Hours | Sunday | 40 | 
-|**Week 2 Assignment Submission of Peer Review**| 3 Hours | *Next* Saturday | 50 | 
+|**Week 2 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 2 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
