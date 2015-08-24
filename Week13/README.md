@@ -24,7 +24,8 @@ In this week, you will learn about basic machine learning concepts, including su
 |**[Week 13 Lesson 2:Dimensional Reduction](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 13 Lesson 3:Cluster Finding](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**Week 13 Quiz**| 35 Minutes | Friday | 70|
-|**Week 13 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
+|**Week 13 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 13 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
