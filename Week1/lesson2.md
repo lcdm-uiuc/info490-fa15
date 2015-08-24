@@ -29,8 +29,8 @@ Approximately 2 hours.
 - Explore the course notes on _Working with Docker) for your particular computer type:
   - [Mac OS X](Working-with-Docker-OSX.md)
   - [Windows](Working-with-Docker-Win.md)
-  - [Linux (Ubuntu)](https://docs.docker.com/installation/ubuntulinux/) or select your Linux distro
-    in the left side menu of the Ubuntu page.
+  - Linux: Everything in the [Mac OS X](Working-with-Docker-OSX.md) documentation should work
+    in Linux.
   
 #### *Optional Additional Readings*####
 
