@@ -155,7 +155,7 @@ container. The first name is the host directory, for example
 Docker container, for example `/home/data_scientist/info490`.
 
 ```console
--v //c/Users/rb/info490:/home/data_scientist/info490
+-v //c/Users/edward/info490:/home/data_scientist/info490
 ```
 
 Note that you will need to replace `/c/Users/edward/` with the output of the
