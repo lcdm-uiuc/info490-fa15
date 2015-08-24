@@ -1,4 +1,4 @@
-## Running Docker
+## Running Docker (Mac OS X)
 
 We assume that you have already downloaded and installed Docker Toolbox,
 following the instructions on the [Docker Toolbox
