@@ -11,8 +11,8 @@ By the end of this lesson, you will:
 - Know which disciplines contribute to Data Science
 - Understand how different disciplines aquire, process, and understand data.
 
-You could share with the class via a Modle Discussion Forum post how
-your discpline views _Data Science_.
+You could share with the class via a Moodle Discussion Forum post how
+your discipline views _Data Science_.
 
 ### Time Estimate ###
 
