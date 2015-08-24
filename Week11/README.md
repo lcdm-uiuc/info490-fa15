@@ -23,7 +23,8 @@ In this week, you will learn about working with relational databases from a Pyth
 |**[Week 11 Lesson 2:Pandas Database Programming](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 11 Lesson 3:NoSQL Data Storage Technologies](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**Week 11 Quiz**| 35 Minutes | Friday | 70|
-|**Week 11 Assignment**| 2 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
+|**Week 11 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 11 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 

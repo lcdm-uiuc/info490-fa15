@@ -23,9 +23,8 @@ In this week, you will again be delving further into Unix and Python. First, you
 |**[Week 4 Lesson 2: Python: Strings & Lists](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 4 Lesson 3: Python: Tuples & Dictionaries](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 4 Quiz**| 30 Minutes | Friday | 70|
-|**Week 4 Assignment Submission to Instructor**| 3 Hours | Saturday | 60 | 
-|**Week 4 Assignment Submission for Peer Grading**| 3 Hours | Sunday | 40| 
-|**Week 4 Assignment Submission of Peer Review**| 3 Hours | *Next* Saturday | 50| 
+|**Week 4 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 4 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 

@@ -23,9 +23,8 @@ This week you will begin to learn how to use the Python programming language to 
 |**[Week 3 Lesson 2:Python: Functions](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 3 Lesson 3:Python: Conditional Statements & Iteration](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 3 Quiz**| 35 Minutes | Friday | 70|
-|**Week 3 Assignment Submission to Instructor**| 3 Hours | Saturday | 60 | 
-|**Week 3 Assignment Submission for Peer Grading**| 3 Hours | Sunday | 40| 
-|**Week 3 Assignment Submission of Peer Review**| 3 Hours | *Next* Saturday | 50| 
+|**Week 3 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 3 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 

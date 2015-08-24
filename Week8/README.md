@@ -26,7 +26,9 @@ In this week, you will learn about time series data, how to work with them in Pa
 |**[Week 8 Lesson 2:Introduction to Time Series Data with Seaborn](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 8 Lesson 3:Introduction to Twitter Data Mining](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**Week 8 Quiz**| 35 Minutes | Friday | 70|
-|**Week 8 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
+|**Week 8 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**Week 8 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
+
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
