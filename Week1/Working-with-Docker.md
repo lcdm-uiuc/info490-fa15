@@ -67,7 +67,7 @@ error, ask for help or google it), try the following simple test to make
 sure everything is working:
 
 ```console
-$ docker run lcdm/info490 /bin/echo "hello world"
+$ docker run lcdm/standalone-info490 /bin/echo "hello world"
 ```
 
 If succesful, your command should print "hello world" on the line after
