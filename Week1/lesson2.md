@@ -26,7 +26,7 @@ Approximately 2 hours.
   
   You can stop once you have completed _Find and run the whalesay image_.
 
-- Explore the course notes on _Working with Docker) for your particular computer type:
+- Explore the course notes on _Working with Docker_ for your particular computer type:
   - [Mac OS X](Working-with-Docker-OSX.md)
   - [Windows](Working-with-Docker-Win.md)
   - Linux: Everything in the [Mac OS X](Working-with-Docker-OSX.md) documentation should work
