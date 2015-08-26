@@ -24,3 +24,7 @@ This class is open to sophomores, juniors, seniors and graduate students in any 
 Please refer to the [course syllabus](orientation/syllabus.md) for more information about course content and grading policies.
 
 **If you have any questions, or if something is not working properly, *PLEASE* look through the FAQs wiki page (please look at the right tool bar on the Github course page and click the icon labeled "Wiki" that looks like an open book) before emailing TA or course instructor.**
+
+Click the link below to get live help on Gitter:
+
+[![Join the chat at https://gitter.im/UI-DataScience/info490-fa15](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UI-DataScience/info490-fa15?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
