@@ -35,7 +35,7 @@ test your Docker installation, enter the following command in the window
 your keyboard:
 
 ```console
-$ docker pull lcdm/standalone-info490
+$ docker run hello-world
 ```
 This is shown in the following screenshot:
 
