@@ -9,7 +9,7 @@ Complete this [survey](https://docs.google.com/forms/d/1gH-6Fz4-oynqSJkgkUX3rhAn
 
 ## Problem 2. Values and Types.
 
-Use the IPython/Jupyter notebook template to work on [`types.ipynb`](types.ipynb).
+Use the IPython/Jupyter notebook template: [`types.ipynb`](types.ipynb).
 
 You can download the template by updating your local course repository that you created in [Week 1 Lesson 2](https://github.com/UI-DataScience/info490-fa15/blob/master/Week1/lesson2.md), e.g. `/home/data_scientist/info490`. Open a terminal, either by using _New_ -> _Terminal_ in the IPython/Jupyter notebooks server, or by using the interactive terminal mode in Docker:
 
