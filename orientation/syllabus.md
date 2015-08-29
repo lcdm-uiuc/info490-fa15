@@ -154,13 +154,17 @@ Every week but the first and last will contain an assignment that will
 involve one or more computational tasks related to the focus for that
 given week. 
 
-Instructions for submitting assignments will be forthcoming. To receive
-full credit from instructor grading, your assignment must be submitted
-prior to the deadline. There will be a 24-hour grace period, in which an
-assignment can be submitted, albeit with an automatic 50% reduction in the
-maximum possible score. After this grace period, no assignments will be
-accepted. The full credit assignment deadline is 6:00 PM Central on
-Saturday of the relevant week. 
+You will submit assignments by using the Moodle Assignment tool. Each
+week you will be given instructions on how to complete the assignment,
+as well as directions on exactly what you must submit to the course
+Moodle site. This single submission will be used for the instructor
+grading (which uses automatic grading scripts) and peer evaluation.
+To receive full credit from instructor grading, your assignment must be
+submitted prior to the deadline. There will be a 24-hour grace period,
+in which an assignment can be submitted, albeit with an automatic 50%
+reduction in the maximum possible score. After this grace period, no
+assignments will be accepted. The full credit assignment deadline is
+6:00 PM Central on Saturday of the relevant week.
 
 ### Peer Review ###
 
