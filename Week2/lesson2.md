@@ -18,15 +18,15 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- The Berkeley python Bootcamp [IPython Notebook](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/04_IPythonNotebookIntroduction/IPython+-+beyond+plain+Python.ipynb).
-	- First, view this online at the provided link
-	- Second, download the notebook (via download icon in the upper right)
-	- Third, upload this notebook to your Docker ipython server and run the commands interactively.
 - [Introduction to the iPython Notebook](notebooks/intro2ipy.ipynb)
 - View other notebooks on [nbviewer](http://nbviewer.ipython.org/) website.
 
 #### *Optional Additional Readings*####
 
+- The Berkeley python Bootcamp [IPython Notebook](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/04_IPythonNotebookIntroduction/IPython+-+beyond+plain+Python.ipynb).
+	- First, view this online at the provided link
+	- Second, download the notebook (via download icon in the upper right)
+	- Third, upload this notebook to your Docker ipython server and run the commands interactively.
 - Read about how to write [Markdown formatted](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/04_IPythonNotebookIntroduction/Markdown%20Cells.ipynb) IPython cells.
 - Learn about [IPython extensions](https://github.com/ipython-contrib/IPython-notebook-extensions).
 - Learn more about the basics of iPython in Chapter 1 of [IPython Interactive Computing and Visualization Cookbook](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781783284818)
