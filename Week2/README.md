@@ -1,5 +1,4 @@
 #Week 2 Overview#
-![Draft Image](../images/Draft_Version_picture.png)
 
 ![Command line image](images/command-line.png)
 ## Introduction to Command-Line Data Science ##
@@ -15,13 +14,11 @@ In this week, you will first be delving further into Unix concepts, such as comm
 - Know basic Python terminology, such as input, output, debugging, etc.
 - Perform basic operations on Python variables.
 
-
-
 ### Activities and Assignments ###
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 2 Introduction Video](** | 10 Minutes | Tuesday |20|
+|**[Week 2 Introduction Video][w2v]** | 10 Minutes | Tuesday |20|
 |**[Week 2 Lesson 1: Basic Unix Concepts](lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 2 Lesson 2: Introduction to iPython](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 2 Lesson 3: Introduction to Python](lesson3.md)**| 2 Hours | Thursday| 20 |
@@ -33,5 +30,6 @@ In this week, you will first be delving further into Unix concepts, such as comm
 
 ----------
 [w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095158
+[w2v]: https://mediaspace.illinois.edu/media/Week+Two.mp4/0_2umvmvle/33195071
 
 Photo Credit: Command Line Screen Shot by Jim Hoskins. 27 Sept. 2012. http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line. 31 July 2015
