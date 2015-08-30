@@ -22,12 +22,15 @@ This week you will begin to learn how to use the Python programming language to 
 |**[Week 3 Lesson 1:Unix File System & Processes](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 3 Lesson 2:Python: Functions](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 3 Lesson 3:Python: Conditional Statements & Iteration](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week 3 Quiz**| 35 Minutes | Friday | 70|
-|**Week 3 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**[Week 3 Quiz][w2q]**| 35 Minutes | Friday | 70|
+|**[Week 3 Assignment Submission][w2a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 3 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
+[w2a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095182
+[w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095179
+
  
 Photo Credit: Python Logo. Created 2001, Python.org, Accessed 31 July 2015.
