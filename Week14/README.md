@@ -23,12 +23,13 @@ In this week, you will learn about the cloud computing paradigm. First, you will
 |**[Week 14 Lesson 1: Introduction to Cloud Computing](lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 14 Lesson 2: Running Containers in the Cloud](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 14 Lesson 3: Introduction to Hadoop](lesson3.md)**| 2 Hours | Thursday| 70 |
-|**Week 14 Quiz**| 35 Minutes | Friday | 70|
-|**Week 14 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**[Week 14 Quiz][w14q]**| 35 Minutes | Friday | 70|
+|**[Week 14 Assignment Submission][w14a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 14 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-
+[w14a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095425
+[w14q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095422
 Photo Credit: Cloud Computing by Ibnu Lukman. Created 14 May 2010. http://locomostrip.com/comic/66/. Accessed 3 August 2015

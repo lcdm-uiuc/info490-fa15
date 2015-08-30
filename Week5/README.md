@@ -26,13 +26,15 @@ The lessons this week will focus on using an iPython notebook to create and use 
 |**[Week 5 Lesson 1:Introduction to Numpy](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 5 Lesson 2:Introduction to Python Plotting with Matplotlib](lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 5 Lesson 3:Making Data Visualizations in Python](lesson3.md)**| 3 Hours | Thursday| 70 |
-|**Week 5 Quiz**| 35 Minutes | Friday | 70|
-|**Week 5 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**[Week 5 Quiz][w5q]**| 35 Minutes | Friday | 70|
+|**[Week 5 Assignment Submission][w5a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 5 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
+[w5q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095224
+[w5a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095221
 
 Photo Credit: [Sustainable Comic](http://imgs.xkcd.com/comics/sustainable.png) by Randall Monroe, Accessed on 31 July 2015.

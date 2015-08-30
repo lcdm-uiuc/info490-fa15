@@ -25,13 +25,14 @@ In this week, you will be introduced to statistical analysis, which is very impo
 |**[Week 7 Lesson 1:Rules of Probability Theory](lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 7 Lesson 2:Statistical Decision Making](lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 7 Lesson 3:Linear Modeling](lesson3.md)**| 2 Hours | Thursday| 70 |
-|**Week 7 Quiz**| 35 Minutes | Friday | 70|
-|**Week 7 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**[Week 7 Quiz][w7q]**| 35 Minutes | Friday | 70|
+|**[Week 7 Assignment Submission][w7a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 7 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-
+[w7a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095263
+[w7q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095266
 Photo Credit: [Conditional Risk](http://imgs.xkcd.com/comics/conditional_risk.png) by Randall Monroe. Accessed on 31 July 2015.

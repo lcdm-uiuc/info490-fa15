@@ -23,12 +23,14 @@ In this week, you will learn about some basic approaches to data exploration, wh
 |**[Week 12 Lesson 1: Data Preparation](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 12 Lesson 2: Visual Exploration](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 12 Lesson 3: Statistical Exploration](lesson3.md)**| 3 Hours | Thursday| 70 |
-|**Week 12 Quiz**| 35 Minutes | Friday | 70|
-|**Week 12 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**[Week 12 Quiz][w12q]**| 35 Minutes | Friday | 70|
+|**[Week 12 Assignment Submission][w12a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 12 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
+[w12a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095383
+[w12q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095380
 
 Photo Credit: Data Mining by Rich Tennant. https://markjowen.wordpress.com/2010/06/03/data-mining/.  Accessed 3 August 2015.

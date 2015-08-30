@@ -24,12 +24,15 @@ In this week, you will learn about basic data processing tasks. First we will di
 |**[Week 9 Lesson 1:Data Formats](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 9 Lesson 2:Data Parsing](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 9 Lesson 3:Working with Data](lesson3.md)**| 2 Hours | Thursday| 70 |
-|**Week 9 Quiz**| 35 Minutes | Friday | 70|
-|**Week 9 Assignment Submission to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**[Week 9 Quiz][w9q]**| 35 Minutes | Friday | 70|
+|**[Week 9 Assignment Submission][w9a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 9 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
+[w9a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095305
+[w9q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095308
+
 
 Photo Credit: Data Processing Center.  By Harley Schwadron. From cartoonstock.com.  Accessed 3 August 2015.
