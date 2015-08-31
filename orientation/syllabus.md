@@ -200,8 +200,9 @@ are no exams in this course.
 ### Missed Weeks ###
 
 While you are still strongly encouraged to complete all activities in
-the course, we will drop your three lowest weekly grades from the second
-to the fourteenth weeks. Since later topics build on earlier topics,
+the course, we will drop your three lowest weekly grades from any week in the course
+<!--second to the fourteenth weeks. -->
+Since later topics build on earlier topics,
 however, it is in your best interest to still complete all readings,
 even if after the relevant deadline.
 
