@@ -1,7 +1,10 @@
 # Week 4 Lesson 3 #
 ## Python: Tuples & Dictionaries ##
 
-In this lesson, you will first learn about what dictionaries are, how to modify them, and what operations you can apply to them. Next, you will learn about tuples, how they differ from lists, and how to manipulate them with functions and operations.
+In this lesson, you will first learn about what dictionaries are, how to
+modify them, and what operations you can apply to them. Next, you will
+learn about tuples, how they differ from lists, and how to manipulate
+them with functions and operations.
 
 
 ###Objectives ###
@@ -21,6 +24,7 @@ Approximately 3 hours.
 ### Readings ####
 
 - Chapters 11-13 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
+- Python [Data Structures II](notebooks/pydatastructures2.ipynb) Notebook.
 
 ####*Optional Additional Readings*####
 

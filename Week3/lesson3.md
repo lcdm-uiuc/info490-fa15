@@ -24,7 +24,7 @@ Approximately 2 hours.
 ### Readings ####
 
 - Chapters 5-7 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
-- Python [Data Structures](notebooks/pydatastructures.ipynb) Notebook.
+- Python [Flow Control](notebooks/flowcontrolpy.ipynb) Notebook.
 
 ## Optional Readings ##
 

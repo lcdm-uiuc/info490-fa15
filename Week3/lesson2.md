@@ -1,10 +1,10 @@
 # Week 3 Lesson 2 #
 ## Python: Functions ##
 
-In this lesson you will learn about how to call Python, as well as how
-to create your own functions.  Additionally, you will learn some
-fundamental concepts that you should implement in the functions that you
-define: generalization and encapsulation.
+In this lesson you will learn about how to call built-in Python
+functions, as well as how to create your own functions.  Additionally,
+you will learn some fundamental concepts that you should implement in
+the functions that you define: generalization and encapsulation.
 
 ###Objectives ###
 
@@ -23,7 +23,7 @@ Approximately 2 hours.
 ### Readings ####
 
 - Read Chapters 3-4 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf) and try some of the exercises shown in those two chapters.
-- Python [Data Structures](notebooks/flowcontrolpy.ipynb) Notebook.
+- Python [Functions](notebooks/functionpy.ipynb) Notebook.
 
 #### *Optional Additional Readings*####
 

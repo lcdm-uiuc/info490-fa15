@@ -20,6 +20,7 @@ Approximately 2 hours.
 ### Readings ####
 
 - Chapter 8-10 [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf)
+- Python [Data Structures I](notebooks/pydatastructures.ipynb) Notebook.
 
 ## Optional Readings ##
 
