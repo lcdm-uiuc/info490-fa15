@@ -3,7 +3,13 @@
 ![Command line image](images/command-line.png)
 ## Introduction to Command-Line Data Science ##
 
-In this week, you will first be delving further into Unix concepts, such as commands, input/output redirection, and the unix shell.  Secondly, you will be learning about iPython Notebooks and how to utilize them in this course.  Finally, you will be going through the basics of the Python language and learning about different types of Python errors, different data types within Python, as well as how to do simple manipulations of Python variables.
+In this week, you will first be delving further into Unix concepts, such
+as commands, input/output redirection, and the unix shell.  Secondly,
+you will be learning about iPython Notebooks and how to utilize them in
+this course.  Finally, you will be going through the basics of the
+Python language and learning about different types of Python errors,
+different data types within Python, as well as how to do simple
+manipulations of Python variables.
 
 ### Objectives ###
 
@@ -24,9 +30,9 @@ In this week, you will first be delving further into Unix concepts, such as comm
 |**[Week 2 Lesson 3: Introduction to Python](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 2 Quiz][w2q]**| 30 Minutes | Friday | 70|
 |**[Week 2 Assignment Submission][w2a] to Instructor and for Peer Grading**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 2 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
+|**Week 2 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
-*Please note that unless otherwise noted, the due time is 6pm Central time!
+*Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
 [w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095158

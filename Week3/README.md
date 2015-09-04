@@ -4,7 +4,17 @@
 ![python logo](images/python-logo.png)
 ## A Further Exploration into the Python Programming Language and Unix ##
 
-This week you will begin to learn how to use the Python programming language to write simple programs, and you will also learn about permissions and controlling processes within Unix-like Systems. First, you will learn about permission-related commands within Unix-like systems, such as chmod, umask, su, sudo, chown, and chgrp. Second, you will learn how to control processes within Unix-like systems through commands including top, ps, jobs, bg, fg, kill, killall, and shutdown. Third, you will learn how to perform various function calls within Python, as well as create your own functions. Finally, you will learn how to create conditional statements, value-returning functions and iterating statements.
+This week you will begin to learn how to use the Python programming
+language to write simple programs, and you will also learn about
+permissions and controlling processes within Unix-like Systems. First,
+you will learn about permission-related commands within Unix-like
+systems, such as chmod, umask, su, sudo, chown, and chgrp. Second, you
+will learn how to control processes within Unix-like systems through
+commands including top, ps, jobs, bg, fg, kill, killall, and shutdown.
+Third, you will learn how to perform various function calls within
+Python, as well as create your own functions. Finally, you will learn
+how to create conditional statements, value-returning functions and
+iterating statements.
 
 ### Objectives ###
 
@@ -24,9 +34,9 @@ This week you will begin to learn how to use the Python programming language to 
 |**[Week 3 Lesson 3:Python: Conditional Statements & Iteration](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 3 Quiz][w2q]**| 35 Minutes | Friday | 70|
 |**[Week 3 Assignment Submission][w2a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 3 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
+|**Week 3 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
-*Please note that unless otherwise noted, the due time is 6pm Central time!
+*Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
 [w2a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095182
