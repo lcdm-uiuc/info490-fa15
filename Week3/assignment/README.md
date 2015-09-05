@@ -32,6 +32,4 @@ $ git pull
 
 Now, if you navigate to `/home/data_scientist/info490/Week2/assignment`, you will discover that the `git pull` command has updated the contents of the local repository.
 
-Alternatively, you can directly download the [template file](https://raw.githubusercontent.com/UI-DataScience/info490-fa15/master/Week2/assignment/types.ipynb) and import it into your notebook server.
-
-Submit your completed assignment onto Moodle for peer assessment.
+Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
