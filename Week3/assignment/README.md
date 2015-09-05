@@ -5,12 +5,10 @@
 **Submission deadline: September 12th, 2015, 6:00 PM**
 
 
-## Problem 1.
+## Problem 3.1. See template [get\_informatics.ipynb](get_informatics.ipynb)
 
 
-## Problem 2.
-
-Use the IPython/Jupyter notebook template: [`types.ipynb`](types.ipynb).
+## Problem 3.2. See template: [decision\_tree.ipynb](decision_tree.ipynb).
 
 ## How to download the templates
 
