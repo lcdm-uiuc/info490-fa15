@@ -1,6 +1,6 @@
-# Week 2 Assignment
+# Week 3 Assignment
 
-![](../../Draft_Version_picture.png)
+![](../../images/Draft_Version_picture.png)
 
 **Submission deadline: September 12th, 2015, 6:00 PM**
 
