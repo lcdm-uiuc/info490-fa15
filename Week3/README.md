@@ -28,20 +28,20 @@ iterating statements.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|** [Week 3 Introduction Video][w2v] ** |10 Minutes|Tuesday|20|
+|**[Week 3 Introduction Video][wv]** |10 Minutes|Tuesday|20|
 |**[Week 3 Lesson 1:Unix File System & Processes](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 3 Lesson 2:Python: Functions](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 3 Lesson 3:Python: Conditional Statements & Iteration](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**[Week 3 Quiz][w2q]**| 35 Minutes | Friday | 70|
-|**[Week 3 Assignment Submission][w2a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
+|**[Week 3 Quiz][wq]**| 35 Minutes | Friday | 70|
+|**[Week 3 Assignment Submission][wa]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 3 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[w2v]: http://dev.null.com
-[w2a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095182
-[w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095179
+[wv]: http://www.devnull.com
+[wa]: https://learn.illinois.edu/mod/workshop/view.php?id=1095182
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1095179
 
  
 Photo Credit: Python Logo. Created 2001, Python.org, Accessed 31 July 2015.
