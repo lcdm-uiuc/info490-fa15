@@ -39,7 +39,7 @@ iterating statements.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[w2v]:
+[w2v]: http://dev.null
 [w2a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095182
 [w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095179
 
