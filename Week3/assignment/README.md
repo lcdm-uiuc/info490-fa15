@@ -2,7 +2,7 @@
 
 Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
 
-## Submission deadline: September 12th, 2015, 6:00 PM
+## Submission deadline: Saturday, September 12th, 2015, 6:00 PM
 
 ## Problem 3.1. See template [get\_informatics.ipynb](get_informatics.ipynb)
 
