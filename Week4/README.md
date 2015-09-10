@@ -18,7 +18,7 @@ In this week, you will again be delving further into Unix and Python. First, you
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 4 Introduction Video](**|10 Minutes|Tuesday|20|
+|**[Week 4 Introduction Video]()**|10 Minutes|Tuesday|20|
 |**[Week 4 Lesson 1: Unix: Working with Data](lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 4 Lesson 2: Python: Strings & Lists](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 4 Lesson 3: Python: Tuples & Dictionaries](lesson3.md)**| 2 Hours | Thursday| 20 |
