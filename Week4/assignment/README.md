@@ -8,7 +8,7 @@ Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessm
 
 ## Problem 4.1. See template:
 
-## Problem 4.2. See template:
+## Problem 4.2. See template: [unix\_ipython](unix_ipython.ipynb)
 
 ### How to download the templates
 
