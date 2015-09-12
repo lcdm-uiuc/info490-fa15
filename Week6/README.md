@@ -20,10 +20,10 @@ In this week, you will begin to use Python to work with data. First, you will le
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 6 Introduction Video](https://mediaspace.illinois.edu/media/Week+Six/0_0hbqbrni)**|10 Minutes|Tuesday|NA|
-|**[Week 6 Lesson 1:Data Access and Selection](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 6 Lesson 2:Data Manipulation and Analysis](lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 6 Lesson 3:Summary Statistics](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 6 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 6 Lesson 1:Unix: Regular Expressions & Commands](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 6 Lesson 2:Python: Regular Expressions](lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 6 Lesson 3:Python: Regular Expressions](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 6 Quiz][w6q]**| 35 Minutes | Friday | 70|
 |**[Week 6 Assignment Submission][w6a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 6 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
