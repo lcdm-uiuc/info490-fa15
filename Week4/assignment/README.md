@@ -6,9 +6,9 @@ Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessm
 
 ## Submission deadline: Saturday, September 19th, 2015, 6:00 PM
 
-## Problem 4.1. See template:
+## Problem 4.1. See template: [Simple Stats](state.ipynb)
 
-## Problem 4.2. See template: [unix\_ipython](unix_ipython.ipynb)
+## Problem 4.2. See template:
 
 ### How to download the templates
 
