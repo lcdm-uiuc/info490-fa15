@@ -4,6 +4,8 @@
 
 Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
 
+Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
+
 ## Submission deadline: Saturday, September 19th, 2015, 6:00 PM
 
 ## Problem 4.1. See template: [Simple Stats](state.ipynb)
