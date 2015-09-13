@@ -6,7 +6,7 @@ Don't forget that you have to submit in **two** places, one for peer assessment 
 
 ## Submission deadline: Saturday, September 19th, 2015, 6:00 PM
 
-## Problem 4.1. See template: [Simple Stats](state.ipynb)
+## Problem 4.1. See template: [Simple Stats](stats.ipynb)
 
 ## Problem 4.2. See template: [Unix data processing using IPython](unix_ipython.ipynb)
 
