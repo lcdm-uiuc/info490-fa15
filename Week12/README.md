@@ -19,10 +19,10 @@ In this week, you will learn about some basic approaches to data exploration, wh
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 12 Introduction Video](https://mediaspace.illinois.edu/media/Week+Twelve/0_ll7ga29f)**|10 Minutes|Tuesday|NA|
-|**[Week 12 Lesson 1: Data Preparation](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 12 Lesson 2: Visual Exploration](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 12 Lesson 3: Statistical Exploration](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 12 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 12 Lesson 1: Relational Databases](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 12 Lesson 2: SQL: Schema Manipulation](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 12 Lesson 3: SQL: Data Manipulation](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 12 Quiz][w12q]**| 35 Minutes | Friday | 70|
 |**[Week 12 Assignment Submission][w12a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 12 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
