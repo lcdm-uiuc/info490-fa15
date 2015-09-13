@@ -1,7 +1,5 @@
 # Week 4 Assignment
 
-![](../../images/Draft_Version_picture.png)
-
 Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
 
 Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
