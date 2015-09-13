@@ -21,10 +21,10 @@ In this week, you will be introduced to statistical analysis, which is very impo
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 7 Introduction Video](https://mediaspace.illinois.edu/media/Week+Seven.mov/0_h6ao1v11/26162631)**|10 Minutes|Tuesday|NA|
-|**[Week 7 Lesson 1:Rules of Probability Theory](lesson1.md)**| 3 Hours |Thursday| 20|
-|**[Week 7 Lesson 2:Statistical Decision Making](lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 7 Lesson 3:Linear Modeling](lesson3.md)**| 2 Hours | Thursday| 70 |
+|**[Week 7 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 7 Lesson 1: Introduction to Data Visualizations](lesson1.md)**| 3 Hours |Thursday| 20|
+|**[Week 7 Lesson 2: Python: Plotting](lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 7 Lesson 3: Python: Data Plotting](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**[Week 7 Quiz][w7q]**| 35 Minutes | Friday | 70|
 |**[Week 7 Assignment Submission][w7a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 7 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 

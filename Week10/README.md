@@ -18,10 +18,10 @@ This week you will learn about relational database management systems (RDBMS), s
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 10 Introduction Video](https://mediaspace.illinois.edu/media/Week+Ten/1_ru9yscle)**|10 Minutes|Tuesday|NA|
-|**[Week 10 Lesson 1:Relational Database & SQLite](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 10 Lesson 2:SQL DDL](lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 10 Lesson 3:SQL DML](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 10 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 10 Lesson 1: Statistics: Summary Measures](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 10 Lesson 2: Statistics: Distributions](lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 10 Lesson 3: Statistics: Visualization](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 10 Quiz][w10q]**| 35 Minutes | Friday | 70|
 |**[Week 10 Assignment Submission][w10a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 10 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 

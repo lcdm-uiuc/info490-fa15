@@ -19,10 +19,10 @@ In this week, you will learn about basic machine learning concepts, including su
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 13 Introduction Video](https://mediaspace.illinois.edu/media/Week+Thirteen.mp4/0_7wlk1w5v)**|10 Minutes|Tuesday|NA|
-|**[Week 13 Lesson 1:Supervised Learning](lesson1.md)**| 3 Hours |Thursday| 20|
-|**[Week 13 Lesson 2:Dimensional Reduction](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 13 Lesson 3:Cluster Finding](lesson3.md)**| 2 Hours | Thursday| 70 |
+|**[Week 13 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 13 Lesson 1: Object Oriented Programming](lesson1.md)**| 3 Hours |Thursday| 20|
+|**[Week 13 Lesson 2: Python: Introduction to OOP](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 13 Lesson 3: Python: OOP](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**[Week 13 Quiz][w13q]**| 35 Minutes | Friday | 70|
 |**[Week 13 Assignment Submission][w13a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 13 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 

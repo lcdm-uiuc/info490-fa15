@@ -21,10 +21,10 @@ In this week, you will learn about time series data, how to work with them in Pa
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 8 Introduction Video](https://mediaspace.illinois.edu/media/Week+Eight/1_hib4j232)**|10 Minutes|Tuesday|NA|
-|**[Week 8 Lesson 1:Introduction to Time Series Data with Pandas](lesson1.md)**| 3 Hours |Thursday| 20|
-|**[Week 8 Lesson 2:Introduction to Time Series Data with Seaborn](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 8 Lesson 3:Introduction to Twitter Data Mining](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 8 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 8 Lesson 1: Python: Introduction to Numpy](lesson1.md)**| 3 Hours |Thursday| 20|
+|**[Week 8 Lesson 2: Python: Introduction to Pandas](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 8 Lesson 3: Python: Pandas DataFrame](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 8 Quiz][w8q]**| 35 Minutes | Friday | 70|
 |**[Week 8 Assignment Submission][w8a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 8 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
