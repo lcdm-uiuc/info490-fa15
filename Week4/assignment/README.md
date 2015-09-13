@@ -10,7 +10,7 @@ Don't forget that you have to submit in **two** places, one for peer assessment 
 
 ## Problem 4.1. See template: [Simple Stats](state.ipynb)
 
-## Problem 4.2. See template:
+## Problem 4.2. See template: [Unix data processing using IPython](unix_ipython.ipynb)
 
 ### How to download the templates
 
