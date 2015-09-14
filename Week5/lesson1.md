@@ -1,7 +1,8 @@
 # Week 5 Lesson 1 #
 ## Unix: Networking and Basic Commands ##
 
-In this lesson, you will learn the basics of networking commands, searching for files, and archiving within Unix-like environments.
+In this lesson, you will learn the basics of networking commands,
+searching for files, and archiving within Unix-like environments.
 
 ###Objectives ###
 By the end of this lesson, you will:
@@ -17,8 +18,8 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Chapters 16-18 from [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine. 
 - [Unix Networking Notebook](notebooks/unixnetwork.ipynb)
+- Chapters 16-18 from [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine. 
 
 #### *Optional Additional Readings*####
 
