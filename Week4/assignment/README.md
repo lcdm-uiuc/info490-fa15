@@ -31,13 +31,28 @@ $ docker exec -it <container name> /bin/bash
 You can find the container name by doing `docker ps`. At the Unix shell, go to the directory where the course repository is mounted,
 
 ```shell
-$ cd /home/data_scientist/info490
+$ cd /home/data_scientist/info490-fa15
 ```
 
-and use `git pull` to update the local repository:
+Now, there are multiple ways to proceed.
 
-```shell
-$ git pull
-```
+1. If you don't care about the local changes and just want the local repository to exactly match the course repository:
+ **WARNING: This will remove all your work.**
+ ```shell
+ $ git fetch --all
+ $ git reset --hard origin/master
+ ```
 
-Now, if you navigate to `/home/data_scientist/info490/Week4/assignment`, you will discover that the `git pull` command has updated the contents of the local repository.
+2. Or, if you care about the changes you have made, you can stash, pull, and then pop the stash:
+ ```shell
+ $ git stash
+ $ git pull
+ $ git stash pop
+ ```
+
+3. But I think the best way is to fork the course repository and do version control of your own repsotiroy. The steps involved will be similar to step 1-7 in the [pull request guide](https://github.com/UI-DataScience/info490-fa15/blob/master/CONTRIBUTING.md), but you wouldn't submit a pull request at the end. If you have your own forked repository, you [sync the fork](https://help.github.com/articles/syncing-a-fork/) by doing
+ ```shell
+ $ git fetch upstream
+ $ git checkout master
+ $ git merge upstream/master
+ ```
