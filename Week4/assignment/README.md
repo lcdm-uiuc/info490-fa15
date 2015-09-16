@@ -50,7 +50,7 @@ Now, there are multiple ways to proceed.
  $ git stash pop
  ```
 
-3. But I think the best way is to fork the course repository and do proper version control of your own repository. The steps involved will be similar to step 1-7 in the [pull request guide](https://github.com/UI-DataScience/info490-fa15/blob/master/CONTRIBUTING.md), but you wouldn't submit a pull request at the end. If you have your own forked repository, you can [sync the fork](https://help.github.com/articles/syncing-a-fork/) by doing
+3. But I think the best way is to fork the course repository and do proper version control of your own repository. The steps involved will be similar to step 1-6 in the [pull request guide](https://github.com/UI-DataScience/info490-fa15/blob/master/CONTRIBUTING.md), but you wouldn't submit a pull request at the end. If you have your own forked repository, you can [sync the fork](https://help.github.com/articles/syncing-a-fork/) by doing
  ```shell
  $ git fetch upstream
  $ git checkout master
