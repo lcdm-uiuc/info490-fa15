@@ -20,7 +20,7 @@ In this week, you will begin to use Python to work with data. First, you will le
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 6 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 6 Introduction Video][w6v]**|10 Minutes|Tuesday|NA|
 |**[Week 6 Lesson 1:Unix: Regular Expressions & Commands](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 6 Lesson 2:Python: Regular Expressions](lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 6 Lesson 3:Python: Regular Expressions](lesson3.md)**| 3 Hours | Thursday| 70 |
@@ -33,5 +33,6 @@ In this week, you will begin to use Python to work with data. First, you will le
 ----------
 [w6a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095242
 [w6q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095245
+[w6v]: 
 
 Photo Credit: [Extrapolating Comic](http://imgs.xkcd.com/comics/extrapolating.png) by Randall Monroe. Accessed on 31 of July.
