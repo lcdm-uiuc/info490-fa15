@@ -2,7 +2,7 @@
 ![Draft Image](../images/Draft_Version_picture.png)
 
 ![XKCD sustainability comic](images/xkcd_sustainable.png)
-## Data Visualization ##
+## Networking and File Input/Output ##
 
 The lessons this week will focus on learning how to use: networking commands inside of Unix, such as ping, netstat, etc.; archiving/compression commands in Unix; and commands used to find files using given criteria.  Next, we will go on to learn about writing and executing a complete program, how to open and close files, and file input/output all in Python.  Finally, we will touch on the Requests library inside of Python, as well as go over what network programming in Python requires.  
 
