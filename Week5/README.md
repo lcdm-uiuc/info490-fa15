@@ -24,7 +24,7 @@ The lessons this week will focus on using an iPython notebook to create and use 
 |:------| -----|-------|----------:|
 |**[Week 5 Introduction Video](https://mediaspace.illinois.edu/media/Week+Five/1_pf7naeyx)**|10 Minutes|Tuesday|NA|
 |**[Week 5 Lesson 1: Unix: Networking and Basic Commands](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 5 Lesson 2: Python: File I/O](lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 5 Lesson 2: Working with the Underlying File System](lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 5 Lesson 3: Python: Network Communication](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 5 Quiz][w5q]**| 35 Minutes | Friday | 70|
 |**[Week 5 Assignment Submission][w5a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
