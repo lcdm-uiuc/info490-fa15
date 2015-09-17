@@ -4,18 +4,16 @@
 ![XKCD sustainability comic](images/xkcd_sustainable.png)
 ## Data Visualization ##
 
-The lessons this week will focus on using an iPython notebook to create and use fast numerical arrays and to make data visualizations. This week we switch our focus from general programming tasks, to data visualization. In particular, you will learn how to make numerical arrays by using the Numpy library, to make general plots, and how to create and interpret scatter plots and histograms by using the Matplotlib  and Seaborn libraries.
+The lessons this week will focus on learning how to use: networking commands inside of Unix, such as ping, netstat, etc.; archiving/compression commands in Unix; and commands used to find files using given criteria.  Next, we will go on to learn about writing and executing a complete program, how to open and close files, and file input/output all in Python.  Finally, we will touch on the Requests library inside of Python, as well as go over what network programming in Python requires.  
 
 
 ### Objectives ###
 
 #####By the end of this lesson, you should accomplish the following learning objectives:######
 
-- Understand how to use the Numpy library to perform fast array and matrix operations
-- Understand how to use Matplotlib within an iPython notebook to create a new plot
-- Understand how to use the Seaborn library to improve the appearance of a Python plot.
-- Understand how to make scatter and histogram plots in Python
-- Understand how to use scatter plots and histograms to understand a data set
+- Write and execute a complete Python program that has the ability to open a file, write or read into it, and then close the file.
+- Understand and be able to use simple networking commands, searching commands, and archiving commands in Unix, such as ```ping, netstat, ftp, wget,```, ```xargs, touch, and stat```, and ```gzip, bzip2, tar, zip, rsync,``` etc.
+- Understand what network programming in Python requires.
 
 
 ### Activities and Assignments ###
