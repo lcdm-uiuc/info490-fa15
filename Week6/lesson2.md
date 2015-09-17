@@ -22,7 +22,10 @@ Approximately 2 hours.
 
 #### *Optional Additional Readings*####
 
-- Google Developer [Python Regular Expressions]()  (Note this was written for Python2, so be aware of the differences).
+- Google Developer [Python Regular
+Expressions](https://developers.google.com/edu/python/regular-
+expressions)  (Note this was written for Python2, so be aware of the
+differences).
 
 
 ### Assessment ###
