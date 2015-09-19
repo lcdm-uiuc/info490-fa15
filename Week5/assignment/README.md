@@ -6,9 +6,9 @@ Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessm
 
 You must submit your assignment in two places:
 
-1. Week XX Assignment (Peer Assessment)
+1. Week 5 Assignment (Peer Assessment)
 
-2. Week XX Assignment (Instructors)
+2. Week 5 Assignment (Instructors)
 
 One is just for the peer assessment, and the other one is just for instructor's grades.
 
