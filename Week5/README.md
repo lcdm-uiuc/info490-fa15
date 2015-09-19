@@ -33,6 +33,6 @@ The lessons this week will focus on learning how to use: networking commands ins
 ----------
 [w5q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095224
 [w5a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095221
-[w5v]: https://mymediaspace.illinois.edu/
+[w5v]: https://mediaspace.illinois.edu/media/t/1_ewzhn255
 
 Photo Credit: [Sustainable Comic](http://imgs.xkcd.com/comics/sustainable.png) by Randall Monroe, Accessed on 31 July 2015.
