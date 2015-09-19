@@ -1,9 +1,5 @@
 # Week 5 Assignment
 
-It's OK to browse the assignemnts but do not work on the assignemnts until we remove the "draft version" image.
-
-![Draft Image](../../images/Draft_Version_picture.png)
-
 Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
 
 ## Announcement
