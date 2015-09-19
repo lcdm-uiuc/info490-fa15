@@ -25,7 +25,7 @@ The lessons this week will focus on learning how to use: networking commands ins
 |**[Week 5 Lesson 3: Python: Network Programming](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 5 Quiz][w5q]**| 35 Minutes | Friday | 70|
 |**[Week 5 Assignment Submission][w5a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 5 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
+|**Week 5 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
