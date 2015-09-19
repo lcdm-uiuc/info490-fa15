@@ -1,6 +1,6 @@
 # Week 5 Assignment
 
-![Draft Image](../images/Draft_Version_picture.png)
+![Draft Image](../../images/Draft_Version_picture.png)
 
 Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
 
