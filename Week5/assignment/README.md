@@ -18,7 +18,7 @@ One is just for the peer assessment, and the other one is just for instructor's 
 
 ## Problem 5.1. See template: [Reading a CSV file](fileio.ipynb)
 
-## Problem 5.2. See template: []()
+## Problem 5.2. See template: [Requests](requests.ipynb)
 
 Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
 
