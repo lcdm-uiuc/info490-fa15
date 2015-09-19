@@ -19,7 +19,7 @@ The lessons this week will focus on learning how to use: networking commands ins
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 5 Introduction Video][w5v]**|10 Minutes|Tuesday|20|
+|**[Week 5 Introduction Video][w5v] **|10 Minutes|Tuesday|20|
 |**[Week 5 Lesson 1: Unix: Networking and Basic Commands](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 5 Lesson 2: Working with the Underlying File System](lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 5 Lesson 3: Python: Network Programming](lesson3.md)**| 3 Hours | Thursday| 70 |
@@ -33,6 +33,6 @@ The lessons this week will focus on learning how to use: networking commands ins
 ----------
 [w5q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095224
 [w5a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095221
-[w5v]:
+[w5v]: http://mediaspace.com
 
 Photo Credit: [Sustainable Comic](http://imgs.xkcd.com/comics/sustainable.png) by Randall Monroe, Accessed on 31 July 2015.
