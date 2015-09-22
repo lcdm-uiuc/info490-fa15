@@ -18,7 +18,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Dive into Python3 [Regular Expressions (Chapter 5)]().
+- Dive into Python3 [Regular Expressions (Chapter 5)](http://www.diveintopython3.net/regular-expressions.html).
 
 #### *Optional Additional Readings*####
 
