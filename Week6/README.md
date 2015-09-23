@@ -1,7 +1,7 @@
 #Week 6 Overview#
 ![Draft Image](../images/Draft_Version_picture.png)
 
-![XKCD Extrapolating](images/extrapolating.png)
+![XKCD Extrapolating](images/regular_expressions.png)
 ## Regular Expressions and Text Processing ##
 
 In this week, you will begin to use Python and Unix to learn about regular expressions and their associated commands so that you can search through text more effectively.  To finish up, you will learn about Unix text processing so that you can better modify and glean information from lines and files of text.
@@ -35,4 +35,4 @@ In this week, you will begin to use Python and Unix to learn about regular expre
 [w6q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095245
 [w6v]: 
 
-Photo Credit: [Extrapolating Comic](http://imgs.xkcd.com/comics/extrapolating.png) by Randall Monroe. Accessed on 31 of July.
+Photo Credit: [Regular Expressions Comic](http://xkcd.com/208/) by Randall Monroe. Accessed on the 23 of September.
