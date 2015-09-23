@@ -10,15 +10,10 @@ In this week, you will begin to use Python and Unix to learn about regular expre
 
 #####By the end of this lesson, you should accomplish the following learning objectives:######
 
-- Understand and be able to utilize regular expressions to better streamline searches through text.
-- Utilize grep options.
-- Utilize metacharacters and literal characters for grep searches.
 - Understand how to use the sub, search, and compile functions within the re library.
-- Understand how to structure verbose regular expressions.
 - Understand how to effectively specify the position and structure of the string you are searching for by using ```\b, ^, $, \d, \D, ?, *, +, {n,m}, (a|b),``` etc.
 - Understand how to sort through lines of text and report differences of files through the use of ```sort and uniq, comm, and diff```.
 - Understand how to modify lines of text and files using ```cut, paste, join, and patch```.
-- Understand how to use ```tr, sed, and aspell``` to transform and check through lines of text.
 
 
 ### Activities and Assignments ###
