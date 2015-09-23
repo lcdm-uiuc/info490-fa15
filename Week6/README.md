@@ -4,16 +4,21 @@
 ![XKCD Extrapolating](images/extrapolating.png)
 ## Introduction to Data Analysis in Python ##
 
-In this week, you will begin to use Python to work with data. First, you will learn about the Pandas library, which can greatly simplify working with large, structured data sets (Pandas introduces many concepts from the R language into Python). You will learn about the Pandas DataFrame object and how to use it to select, group, and filter data. Finally, you will learn about basic statistical measurements, theoretical data distributions, and how to use them in Python programs.
+In this week, you will begin to use Python and Unix to learn about regular expressions and their associated commands so that you can search through text more effectively.  To finish up, you will learn about Unix text processing so that you can better modify and glean information from lines and files of text.
 
 ### Objectives ###
 
 #####By the end of this lesson, you should accomplish the following learning objectives:######
 
-- Understand how to use the Pandas library to read and write structured data into a Python program.
-- Understand how to use a Pandas DataFrame to select, group, and filter data.
-- Understand summary statistics
-- Understand several basic data distributions and how to sample from these distributions by using Python functions.
+- Understand and be able to utilize regular expressions to better streamline searches through text.
+- Utilize grep options.
+- Utilize metacharacters and literal characters for grep searches.
+- Understand how to use the sub, search, and compile functions within the re library.
+- Understand how to structure verbose regular expressions.
+- Understand how to effectively specify the position and structure of the string you are searching for by using ```\b, ^, $, \d, \D, ?, *, +, {n,m}, (a|b),``` etc.
+- Understand how to sort through lines of text and report differences of files through the use of ```sort and uniq, comm, and diff```.
+- Understand how to modify lines of text and files using ```cut, paste, join, and patch```.
+- Understand how to use ```tr, sed, and aspell``` to transform and check through lines of text.
 
 
 ### Activities and Assignments ###
@@ -23,7 +28,7 @@ In this week, you will begin to use Python to work with data. First, you will le
 |**[Week 6 Introduction Video][w6v]**|10 Minutes|Tuesday|NA|
 |**[Week 6 Lesson 1:Unix: Regular Expressions & Commands](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 6 Lesson 2:Python: Regular Expressions](lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 6 Lesson 3:Python: Regular Expressions](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 6 Lesson 3:Unix Text Processing](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 6 Quiz][w6q]**| 35 Minutes | Friday | 70|
 |**[Week 6 Assignment Submission][w6a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 6 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
