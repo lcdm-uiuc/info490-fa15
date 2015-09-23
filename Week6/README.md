@@ -2,7 +2,7 @@
 ![Draft Image](../images/Draft_Version_picture.png)
 
 ![XKCD Extrapolating](images/extrapolating.png)
-## Introduction to Data Analysis in Python ##
+## Regular Expressions and Text Processing ##
 
 In this week, you will begin to use Python and Unix to learn about regular expressions and their associated commands so that you can search through text more effectively.  To finish up, you will learn about Unix text processing so that you can better modify and glean information from lines and files of text.
 
