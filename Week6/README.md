@@ -18,7 +18,7 @@ In this week, you will begin to use Python and Unix to learn about regular expre
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 6 Introduction Video][w6v]**|10 Minutes|Tuesday|NA|
+|**[Week 6 Introduction Video][w6v]**|10 Minutes|Tuesday|20|
 |**[Week 6 Lesson 1:Unix: Regular Expressions & Commands](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 6 Lesson 2:Python: Regular Expressions](lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 6 Lesson 3:Unix Text Processing](lesson3.md)**| 3 Hours | Thursday| 70 |
