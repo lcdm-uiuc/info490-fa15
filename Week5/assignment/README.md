@@ -1,5 +1,7 @@
 # Week 5 Assignment
 
+## Deeadline is extended to Sunday, 9/27, 6:00 PM due to the FAA services being down.
+
 Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
 
 ## Announcement
