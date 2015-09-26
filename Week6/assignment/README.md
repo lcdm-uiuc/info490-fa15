@@ -1,6 +1,6 @@
 # Week 6 Assignment
 
-Submit your completed assignment (**.ipynb** files) onto Moodle for peer assessment.
+Submit your completed assignment (**.ipynb** files) onto Moodle.
 
 ## Announcement
 
