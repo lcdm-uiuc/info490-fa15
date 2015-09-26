@@ -1,6 +1,4 @@
 #Week 6 Overview#
-![Draft Image](../images/Draft_Version_picture.png)
-
 ![XKCD Extrapolating](images/regular_expressions.png)
 ## Regular Expressions and Text Processing ##
 
@@ -33,6 +31,6 @@ In this week, you will begin to use Python and Unix to learn about regular expre
 ----------
 [w6a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095242
 [w6q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095245
-[w6v]: https://mediaspace.illinois.edu
+[w6v]: https://mediaspace.illinois.edu/media/Week+Six/1_9injl00l/33195071
 
 Photo Credit: [Regular Expressions Comic](http://xkcd.com/208/) by Randall Monroe. Accessed on the 23 of September.
