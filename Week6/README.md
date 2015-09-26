@@ -33,6 +33,6 @@ In this week, you will begin to use Python and Unix to learn about regular expre
 ----------
 [w6a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095242
 [w6q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095245
-[w6v]: 
+[w6v]: https://mediaspace.illinois.edu
 
 Photo Credit: [Regular Expressions Comic](http://xkcd.com/208/) by Randall Monroe. Accessed on the 23 of September.
