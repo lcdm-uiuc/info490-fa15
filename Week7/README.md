@@ -25,7 +25,7 @@ and Seaborn libraries.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 7 Introduction Video](w7v]**|10 Minutes|Tuesday|NA|
+|**[Week 7 Introduction Video][w7v]**|10 Minutes|Tuesday|NA|
 |**[Week 7 Lesson 1: Introduction to Data Visualizations](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 7 Lesson 2: Python: Plotting](lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 7 Lesson 3: Python: Data Plotting](lesson3.md)**| 3 Hours | Thursday| 70 |
@@ -37,7 +37,7 @@ and Seaborn libraries.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w7v]: http://mediaspace.illinois.edu/
+[w7v]: https://mediaspace.illinois.edu/media/t/1_nvk0x8np/33195071
 [w7a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095263
 [w7q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095266
 
