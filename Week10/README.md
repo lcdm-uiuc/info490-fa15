@@ -24,7 +24,7 @@ This week you will learn about relational database management systems (RDBMS), s
 |**[Week 10 Lesson 3: Statistics: Visualization](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 10 Quiz][w10q]**| 35 Minutes | Friday | 70|
 |**[Week 10 Assignment Submission][w10a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 10 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
+|**Week 10 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
