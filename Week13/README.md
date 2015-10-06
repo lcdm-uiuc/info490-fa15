@@ -25,7 +25,7 @@ In this week, you will learn about basic machine learning concepts, including su
 |**[Week 13 Lesson 3: Python: OOP](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**[Week 13 Quiz][w13q]**| 35 Minutes | Friday | 70|
 |**[Week 13 Assignment Submission][w13a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 13 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
+|**Week 13 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
