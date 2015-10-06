@@ -25,7 +25,7 @@ In this week, you will learn about some basic approaches to data exploration, wh
 |**[Week 12 Lesson 3: SQL: Data Manipulation](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**[Week 12 Quiz][w12q]**| 35 Minutes | Friday | 70|
 |**[Week 12 Assignment Submission][w12a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
-|**Week 12 Completion of Peer Review**| 3 Hours | *The following* Tuesday | 50 | 
+|**Week 12 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
