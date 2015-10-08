@@ -21,7 +21,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- [Introduction to Pandas](notebook/intro2pandas.ipynb) IPython Notebook
+- [Introduction to Pandas](notebooks/intro2pandas.ipynb) IPython Notebook
 - [Quick overview](http://pandas.pydata.org/pandas-docs/stable/overview.html) of Pandas
 - Pandas in [Ten Minutes](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 - [Pandas Tutorial](https://github.com/jvns/pandas-cookbook) Chapters 1-2
