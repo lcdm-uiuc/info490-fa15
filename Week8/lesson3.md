@@ -1,31 +1,34 @@
 # Week 8 Lesson 3 #
-## Introduction to Twitter Data Mining##
+## Introduction to Pandas: Data Manipulation and Analysis##
 
-In this lesson, you will learn how to perform basic data mining tasks on Twitter data. First, you will learn how to authenticate with Twitter. Next you will learn about using Twitter metadata and how to extract relevant information from a Tweet. Finally, you will perform some basic analysis on Twitter data by using Python. This will also require learning more about the JSON data format.
+In this lesson, you will learn more advanced functionality within the
+Pandas library. Specifically you will learn about combining data from
+different Pandas DataFrames, efficiently selecting data from Pandas
+DataFrames, and how to use Pandas to clean data before subsequent
+analysis.
+
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the basic web authentication mechanisms
-- Understand how to extract and use social media metadata
-- Understand how to extract and analyze data from tweets
+- Understand how to quickly filter data in a Pandas DataFrame
+- Understand how use the Pandas GroupBy and Aggregate functionality.
+- Understand how combine data from different Pandas data structures
+- Understand how to manipulate character data by using Pandas
+- Understand how to clean up data sources by using Pandas
 
 
 ### Time Estimate ###
 
-Approximately 3 hours.
+Approximately 2 hours.
 
 ### Readings ####
 
-- [An Introduction to Mining Twitter Feeds](https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/__Chapter%201%20-%20Mining%20Twitter%20(Full-Text%20Sampler).html)
+- [Pandas Tutorial](https://github.com/jvns/pandas-cookbook) Chapters 3-7
 
 #### *Optional Additional Readings*####
 
-- [Official Twitter Developer Documents Site](https://dev.twitter.com/overview/documentation)
-- [The Python Twitter Library](https://github.com/bear/python-twitter)
-- [Other Twitter Data Mining Ideas](https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/Chapter%209%20-%20Twitter%20Cookbook.html)
-- JSON [Introduction](http://www.w3resource.com/JSON/introduction.php)
-- [JSON & Python](http://pythontips.com/2013/08/08/storing-and-loading-data-with-json/)
+- Another [Pandas Tutorial](http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb) (but do not pollute the namespace with **%pylab inline**)
 
 ### Assessment ###
 

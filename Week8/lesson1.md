@@ -1,15 +1,22 @@
 # Week 8 Lesson 1 #
-## Introduction to Time Series Data ##
+## Introduction to Numpy ##
 
-In this lesson, you will learn about time series data, which includes a range of different observed phenomena that are seen to vary in time. This includes scientific and engineering data, as well as humanities and social science data, for example, polling of people's opinions or their personal information. One of the most commonly recognized time series data originate in financial markets, where we might be interested in monitoring (or predicting) the price of a commodity or stock over time. To simplify working with time series data, in this lesson you will learn how to use the Pandas library to use the Series data structure to work with time-date data sets.
+In this lesson, you will learn to work with the Numpy library, which
+brings fast numerical arrays and matrices to the Python programming
+language. You will learn how to create numnpy arrays, how to quantify
+the basic details about an existing array, how to index and slice these
+arrays, and how to apply (universal) functions to array data quickly.
+Finally, you will learn how to change the shape of an array, and how to
+make shallow and deep copies of an array.
 
 ###Objectives ###
+
 By the end of this lesson, you will be able to:
 
-- Understand the basic concepts of a time series data.
-- Understand how to create a time series data structure by using Pandas
-- Understand how to work with Pandas time series data
-- Understand how to index, slice, and extract time series data subsets.
+- Understand how to create and use a Numpy array.
+- Understand how to index into and slice a Numpy array.
+- Understand what a ufunc is and how to apply them to a Numpy array.
+- Understand how to modify and copy a Numpy array.
 
 ### Time Estimate ###
 
@@ -17,13 +24,14 @@ Approximately 3 hours.
 
 ### Readings ####
 
-- Pandas [Time Series](http://pandas.pydata.org/pandas-docs/stable/timeseries.html) Documentation
-- Pandas [Financial Data Tutorial](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb) (Stop at Optional part)
+- [Introduction to Numpy](notebooks/intro2numpy.ipynb) IPython Notebook
+- [Numpy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial) (Chapters 1-4 only)
 
 #### *Optional Additional Readings*####
 
-- An older [Python financial data](http://wavedatalab.github.io/datawithpython/timeseries.html) Notebook
-- A Python 3 [Pandas Time Series](http://nbviewer.ipython.org/github/chrisalbon/code_py/blob/master/pandas_time_series_basics.ipynb) Notebook
+- Numpy [Cookbook](http://wiki.scipy.org/Cookbook#head-198bd222c6438301ada793ad63e0b5384ab10308)
+- Short [Numpy Overview](http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/blob/master/AnatomyOfMatplotlib-Part0-Intro2NumPy.ipynb)
+
 
 ### Assessment ###
 

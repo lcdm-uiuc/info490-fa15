@@ -1,15 +1,19 @@
 # Week 8 Lesson 2 #
-## Introduction to Time Series Data with Seaborn##
+## Introduction to Pandas: Data Access and Selection##
 
-In this lesson, you will learn about making attractive visualizations of time series data. This includes understanding how to represent confidence intervals, how to compare multiple time series, how to select different statistical values, such as the mean or median, for plotting, and also changing the actual confidence intervals used for the display. Finally, you will learn about the importance of selecting an appropriate visualization technique that demonstrates the uncertainty in a  time series measurement.
+In this lesson, you will learn about the Pandas library. Pandas is a
+Python library that can simplify data analysis tasks. If you know R, you
+will find many familiar concepts in Pandas. By using Pandas, you can
+more easily manipulate data by using column labels, you can identify and
+handle missing data, and you can quickly merge or join data sets.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand how to make a Time Series plot by using Pandas and Seaborn.
-- Understand how to label TimeSeries plots.
-- Understand how to use different statistical measures and change confidence interval parameters when plotting a time series.
-- Understand the different methods to visualize uncertainty in TimeSeries data.
+- Understand the basic components in the Pandas library
+- Understand how to use a DataFrame
+- Understand how to read and write data between Pandas data structures and different types of files
+- Understand how to manipulate large data sets by column labels
 
 ### Time Estimate ###
 
@@ -17,12 +21,14 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- [Seaborn TimeSeries](http://stanford.edu/~mwaskom/software/seaborn/generated/seaborn.tsplot.html) Documentation.
+- [Introduction to Pandas](notebook/intro2pandas.ipynb) IPython Notebook
+- [Quick overview](http://pandas.pydata.org/pandas-docs/stable/overview.html) of Pandas
+- Pandas in [Ten Minutes](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+- [Pandas Tutorial](https://github.com/jvns/pandas-cookbook) Chapters 1-2
 
 #### *Optional Additional Readings*####
 
-- A Python 3 [Pandas + Seaborn](http://nbviewer.ipython.org/github/chrisalbon/code_py/blob/master/seaborn_pandas_timeseries_plot.ipynb) Notebook
-- A Python 3 [Seaborn TimeSeries](http://nbviewer.ipython.org/github/chrisalbon/code_py/blob/master/seaborn_pretty_timeseries_plots.ipynb) Notebook
+- Another [Pandas Tutorial](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 
 ### Assessment ###
 
