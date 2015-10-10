@@ -25,7 +25,10 @@ Approximately 3 hours.
 ### Readings ####
 
 - [Introduction to Numpy](notebooks/intro2numpy.ipynb) IPython Notebook
-- [Numpy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial) (Chapters 1-4 only)
+
+- [Numpy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial) (Chapters 1-4 only) 
+or backup link to [Numpy Tutorial](http://www.cs.man.ac.uk/~barry/mydocs/MyCOMP28512/MS15_Notes/PyRefs/Tentative_NumPy_Tutorial.pdf) if the main site is down.
+
 
 #### *Optional Additional Readings*####
 
