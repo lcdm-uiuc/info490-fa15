@@ -1,6 +1,4 @@
 #Week 8 Overview#
-![Draft Image](../images/Draft_Version_picture.png)
-
 ![Pandas logo](images/pandas_logo.png)
 ##Introduction to Data Analysis in Python##
 
@@ -41,7 +39,7 @@ using expressions when slicing data from a Pandas data structure.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w8v]: http://mediaspace.illinois.edu/
+[w8v]: https://mediaspace.illinois.edu/media/Week+Eight/1_eg1flln0/33195071
 [w8q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095287
 [w8a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095284
 Photo Credit: Pandas Logo, From pandas.pydata.org. Accessed 3 August 2015.
