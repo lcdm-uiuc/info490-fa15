@@ -43,3 +43,4 @@ using expressions when slicing data from a Pandas data structure.
 [w8q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095287
 [w8a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095284
 Photo Credit: Pandas Logo, From pandas.pydata.org. Accessed 3 August 2015.
+
