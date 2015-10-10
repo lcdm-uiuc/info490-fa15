@@ -14,9 +14,9 @@ One is just for the peer assessment, and the other one is just for instructor's 
 
 ## Submission deadline: Saturday, October 17th, 2015, 6:00 PM
 
-## Problem 8.1. Use template:
+## Problem 8.1. Use template: [Simple Stats Using Pandas](pdstats.ipynb)
 
-## Problem 8.2. Use template:
+## Problem 8.2. Use template: [Flight Cancellations by Month](cancelled.ipynb)
 
 ![](month_cancelled.png)
 
