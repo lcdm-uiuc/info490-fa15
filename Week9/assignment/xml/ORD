@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>true</Delay>
+				
+					<IATA>ORD</IATA>
+				
+					<State>Illinois</State>
+				
+					<Name>Chicago OHare International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Partly Cloudy</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>12:51 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>53.0 F (11.7 C)</Temp>
+				
+					<Wind>Northwest at 12.7mph</Wind></Weather>
+				
+					<ICAO>KORD</ICAO>
+				
+					<City>Chicago</City>
+				
+					<Status><Reason>VOL:Multi-taxi</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay>16 minutes</MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay>30 minutes</MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend>Increasing</Trend>
+				
+					<Type>Departure</Type></Status>
+				</AirportStatus> 
