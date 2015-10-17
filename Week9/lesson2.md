@@ -21,7 +21,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](notebooks/json-dataformat.ipynb) on Data Formats
+- Course [IPython Notebook](notebooks/json-dataformats.ipynb) on Data Formats
 
 - The [JSON](https://en.wikipedia.org/wiki/JSON) Document format
 
