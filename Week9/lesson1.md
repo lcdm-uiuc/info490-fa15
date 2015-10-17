@@ -1,11 +1,7 @@
 # Week 9 Lesson 1 #
 ## Text Data Formats ##
 
-In this lesson, you will learn about different data formats by using 
-the airport data example to read and write data into different formats.
-This process is done using standard Python tools and by using the Pandas
-library. This is required before we can begin to work with data in
-specific formats, as demonstrated in the other two lessons this week.
+In this lesson, you will learn about the two different kinds of text files by writing the airport data to both a delimiter separated file and a fixed-width format file.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
