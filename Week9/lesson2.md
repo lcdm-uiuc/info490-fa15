@@ -1,13 +1,7 @@
 # Week 9 Lesson 2 #
 ## JSON Data Format ##
 
-In this lesson, you will learn about extracting information from
-structured data sets. This includes parsing data from XML formats such
-as HTML, which is the language in which web pages are written and
-stored. To do this you will learn about the BeautifulSoup parsing
-library and the libxml parsing engine. You also will review the basics
-of regular expressions, which can speed up the extraction of specific
-data from XML formatted files.
+In this lesson, you will learn about creating, and reading from a JSON file.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
