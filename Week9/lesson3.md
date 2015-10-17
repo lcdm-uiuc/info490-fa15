@@ -14,7 +14,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](notebook/xml-dataformat.ipynb) on Data Formats
+- Course [IPython Notebook](notebooks/xml-dataformat.ipynb) on Data Formats
 
 - The [XML](https://en.wikipedia.org/wiki/XML) Document format
 
