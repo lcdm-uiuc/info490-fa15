@@ -4,17 +4,15 @@
 ![Data Processing Comic](images/BBQ.gif)
 ## Introduction to Data Processing ##
 
-In this week, you will learn about basic data processing tasks. First we will discuss different data file formats like text, XML, JSON, and HDF. Next, we will discuss data parsing, which is used to extract data from structured data formats. Finally, we will use these skills to make a Chloropeth visualization.
+In this week, you will learn about different data formats. First we will discuss the text data format, which will include the .csv and .txt files. Next, we will discuss JSON files. Finally, we will discuss XML files and how to read and write them.
 
 ### Objectives ###
 
 #####By the end of this lesson, you should accomplish the following learning objectives:######
 
-- Understand the different unstructured and structured text data formats.
-- Understand how to use a parsing library to extract information from a data file.
-- Understand how the document object model.
-- Understand how to extract data from website.
-- Understand how to make a Chloropeth visualization.
+- Understand how to read and write and XML formatted file.
+- Understand how to read and write a CSV file.
+- Understand how to read and write a JSON file.
 
 ### Activities and Assignments ###
 
