@@ -1,16 +1,19 @@
 # Week 10 Lesson 1 #
-## Relational Database ##
 
-In this lesson, you will start learning about data persistence techniques by using Python. First, you will review using basic file I/O to save Python data. Next, you will learn about Pickling, a Python technique for saving and restoring data  by using a custom Python format. Third, you will learn about relational databases, including the basic relational database concepts such as database roles and the ACID test. Finally you will learn about the SQLite database that we will use to demonstrate relational database concept in this course.
+## Summary Statistics ##
+
+In this lesson, you will learn about summary statistics like the mean,
+median, and mode. You also will learn about representing a set of data
+as a distribution and how the summary statistics are related to a
+distribution. 
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the concept of pickling data.
-- Understand relational database technology
-- Understand database roles.
-- Understand the ACID test. 
-- Understand the basic concepts behind the Sqlite database
+- Understand the different summary statistics.
+- Understand how to compute the mean or average value for a data set.
+- Understand the concept of a Probability Density Function (PDF). 
+- Understand the relationship between summary statistics like the mean and a distribution function.
 
 ### Time Estimate ###
 
@@ -18,12 +21,12 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Introduction to [Data Persistence Notebook](notebook/intro2db.ipynb)
+- Chapter 2, Distributions, from [Think Stats2](http://www.greenteapress.com/thinkstats2/html/thinkstats2003.html)
+- Section on Important presentation of Probability Densities in [Introduction to Statistics](http://work.thaslwanter.at/Stats/html/statsDistributions.html#other-important-presentations-of-probability-densities). Stop at the *Distribution Functions* Header.
 
 #### *Optional Additional Readings*####
 
-- [Database and SQL Tutorial](http://www.tutorialspoint.com/sql/index.htm): From the SQL-Home page through the SQL-Databases page.
-- [SQLite Tutorial](http://www.tutorialspoint.com/sqlite/index.htm): From the SQLite-Home page through the SQLite-Commands page
+- Chapter 1, Exploratory Data Analysis, from [Think Stats2](http://www.greenteapress.com/thinkstats2/html/thinkstats2002.html)
 
 ### Assessment ###
 

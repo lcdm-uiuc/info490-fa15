@@ -1,30 +1,39 @@
 # Week 10 Lesson 3 #
-## Using SQL for Data Manipulation ##
+## Visualizing distributions in Python ##
 
-In this lesson, you will learn how to add, change, delete, and select data by using the SQLite database. First, you will learn about the SQL INSERT command, which you will use to insert data into a SQLite database. Second, you will learn about the SQL SELECT query command, including the use of operators, expressions, and a WHERE clause to extract data from a SQLite database. Next you will learn about making more complex SQL queries by creating compound SQL statements with the AND and OR clauses. Next, you will leaner about changing or deleting data from a SQLIte database by using the SQL UPDATE and DELETE commands. Finally, you will learn more advanced SQL commands to create more powerful queries for extracting, changing, or deleting data from a SQLite database. In this lesson, you can also try some of these SQL statements out on other databases by using the online SQL emulator located at http://sqlzoo.net/wiki/Main_Page. By changing the Engine drop-down box, you can choose to execute SQL against a MySQL, Oracle, SQL Server, PostgreSQL, Ingres, or DB2 database.
+In this lesson, you will learn to make and interpret more advanced data
+visualizations like  histograms by using MatPlotLib. Next you will learn
+about improving the appearance of data visualizations to better convey
+information, which we can easily do by using the Seaborn library.
+Finally, you will learn how to use Seaborn to make visually more
+appealing plots, how to use Kernel Density Estimation to improve
+histograms, and how to make box plots and violin plots.
 
 ###Objectives ###
+
 By the end of this lesson, you will be able to:
 
-- Understand how to insert data into a SQL database.
-- Understand how to extract data from a SQL database.
-- Understand how to change data in a SQL database.
-- Understand how to delete data in a SQL database.
+- Understand how to use Matplotlib to make and use Histograms.
+- Understand the importance of Beautiful Visualizations.
+- Understand how to use Seaborn to improve the appearance of a plot.
+- Understand how to make and use Box and Violin plots.
+- Understand how to use KDE to improve a Box plot.
 
 ### Time Estimate ###
 
-Approximately 3 hours.
+Approximately 2 hours.
 
 ### Readings ####
 
-- Introduction to [SQL DML Notebook](notebook/intro2sqldml.ipynb)
-
+- Introduction to [Distribution visualizations](notebook/intro2sqldml.ipynb)
+- Using [Seaborn to plot distributions](http://stanford.edu/~mwaskom/software/seaborn/tutorial/distributions.html)
+- Demonstration of [how to improve a visualization](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
+ 
 #### *Optional Additional Readings*####
 
-- [Database and SQL Tutorial](http://www.tutorialspoint.com/sql/index.htm): From the SQL-Insert Query page through the SQL-Sorting Results page.
-- [SQLite Tutorial](http://www.tutorialspoint.com/sqlite/index.htm): From the SQLite-Insert Query page through the SQLite-Distinct page
-- [SQL Tutorial](http://www.w3schools.com/sql/)
-- [SQL Online Tutorial](http://sqlzoo.net/wiki/SQL_Tutorial)
+- Data [visualization in Python](http://work.thaslwanter.at/Stats/html/statsBasics.html#data-display)
+- Impressive [Visualizations](http://setosa.io/#/)
+
 
 ### Assessment ###
 
