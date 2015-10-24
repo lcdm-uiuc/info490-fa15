@@ -25,7 +25,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Introduction to [Distribution visualizations](notebook/intro2sqldml.ipynb)
+- Introduction to [Distribution visualizations](notebook/intro2dataviz.ipynb)
 - Using [Seaborn to plot distributions](http://stanford.edu/~mwaskom/software/seaborn/tutorial/distributions.html)
 - Demonstration of [how to improve a visualization](http://darkhorseanalytics.com/blog/data-looks-better-naked/)
  
