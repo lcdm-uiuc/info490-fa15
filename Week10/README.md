@@ -1,5 +1,4 @@
 #Week 10 Overview#
-![Draft Image](../images/Draft_Version_picture.png)
 
 ## Introduction to Statistical Analysis ##
 
@@ -38,6 +37,6 @@ distributions by using matplotlib and seaborn.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w10v]: http://mediaspace.illinois.edu/
+[w10v]: https://mediaspace.illinois.edu/media/t/1_bqgkcyum/33195071
 [w10a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095341
 [w10q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095338
