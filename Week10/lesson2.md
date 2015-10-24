@@ -28,8 +28,8 @@ teaching the material. We encourage you to not use his code, but to use
 standard Python data structures (like a dictionary) to represent the
 distributions.
 
-- Chapter 3, Distributions, from [Think Stats2](http://www.greenteapress.com/thinkstats2/html/thinkstats2003.html)
-- Chapter 4, Distributions, from [Think Stats2](http://www.greenteapress.com/thinkstats2/html/thinkstats2003.html)
+- Chapter 3, Probability Mass Functions, from [Think Stats2](http://www.greenteapress.com/thinkstats2/html/thinkstats2004.html)
+- Chapter 4,  Cumulative Distribution Functions, from [Think Stats2](http://www.greenteapress.com/thinkstats2/html/thinkstats2005.html)
 - Short Section on Continuous Distribution Functions in [Introduction to Statistics](http://work.thaslwanter.at/Stats/html/statsDistributions.html#continuous-distribution-functions)
 
 #### *Optional Additional Readings*####
