@@ -1,7 +1,5 @@
 # Week 10 Assignment
 
-![Draft Image](../images/Draft_Version_picture.png)
-
 You must use the provided templates. Submit your completed assignment (**.ipynb** files) onto Moodle.
 
 ## Announcement
@@ -16,9 +14,9 @@ One is just for the peer assessment, and the other one is just for instructor's 
 
 ## Submission deadline: Saturday, October 31, 2015, 6:00 PM
 
-## Problem 10.1. Use template: 
+## Problem 10.1. Use template: [PMF and CDF](cdf.ipynb)
 
-## Problem 10.2. Use template: 
+## Problem 10.2. Use template: [Visualizing Distributions](distributions.ipynb)
 
 Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
 
