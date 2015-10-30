@@ -34,7 +34,7 @@ problems, and can, therefore, be a useful skill to possess
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w11v]: https://learn.illinois.edu/mod/workshop/view.php?id=1095362
+[w11v]: https://mediaspace.illinois.edu/media/Week+Eleven/1_ofuqqrcu
 [w11a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095362
 [w11q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095359
 
