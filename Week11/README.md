@@ -23,7 +23,7 @@ problems, and can, therefore, be a useful skill to possess
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 11 Introduction Video](**|10 Minutes|Tuesday|NA|
+|**[Week 11 Introduction Video][w11v]**|10 Minutes|Tuesday|NA|
 |**[Week 11 Lesson 1: Functional Programming](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 11 Lesson 2: Functional Programming in Python, Part I](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 11 Lesson 3: Functional Programming in Python, Part II](lesson3.md)**| 3 Hours | Thursday| 20 |
@@ -34,6 +34,7 @@ problems, and can, therefore, be a useful skill to possess
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
+[w11v]: https://learn.illinois.edu/mod/workshop/view.php?id=1095362
 [w11a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095362
 [w11q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095359
 
