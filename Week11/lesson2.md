@@ -1,15 +1,23 @@
 # Week 11 Lesson 2 #
-## Pandas and Databases ##
+## Functional Programming in Python ##
 
-In this lesson, you will learn how to work with a SQL based database by using the Pandas Python library. Pandas simplifies many data tasks by hiding details that are not relevant for many projects. In this case, Pandas can hide many of the database interaction mechanisms to allow one to easily query, update, or insert new data into an existing database. 
+In this lesson, you will learn how to apply functional programming
+within Python. First you will learn about employing the map, filter, and
+reduce methods. Second, you will learn about lambda functions, which are
+small, anonymous functions, that can simplify many functional
+programming tasks. Note that many of the readings use Python2, so keep
+that in mind when trying these concepts out in Python3 (for example, use
+the `print` function, not the `print` statement, and the `reduce` function
+is now in the `itertools` module).
+
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the basic concepts involved in using a Pandas DataFrame to interact with a database.
-- Understand how to query data by using Pandas.
-- Understand how to update data by using Pandas.
-- Understand how to use Pandas to create and populate new database tables.
+- Understand the `map` function and how to use it effectively.
+- Understand the `filter` function and how to use it effectively.
+- Understand the `reduce` function and how to use it effectively.
+- Understand lambda functions and how to use them for functional programming.
 
 ### Time Estimate ###
 
@@ -17,11 +25,18 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](notebook/intro2pandasdb.ipynb), which you can view online or (better yet) download and run locally.
+- [Functional programming](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) in Python2.
+
+- [Lambda functions](http://www.python-course.eu/python3_lambda.php) in Python.
 
 #### *Optional Additional Readings*####
 
-- [Blog Post](http://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html) about Pandas and SQL
+- [Functional Programming in Python](http://alan-g.me.uk/tutor/tutfctnl.htm) article (don't worry yet
+about comprehensions).
+
+- Old article on Functional Programming in Python [Part 1](http://www.ibm.com/developerworks/linux/library/l-prog/index.html)
+and [Part 2](http://www.ibm.com/developerworks/linux/library/l-prog2/index.html).
+Note that are using Python2.
 
 ### Assessment ###
 
