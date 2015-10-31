@@ -1,5 +1,5 @@
 #Week 11 Overview#
-![Draft Image](../images/Draft_Version_picture.png)
+![Functional Programming](http://xkcd.com/1270/)
 
 ## Functional Programming ##
 
