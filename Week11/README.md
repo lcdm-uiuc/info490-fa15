@@ -1,5 +1,4 @@
 #Week 11 Overview#
-![Functional Programming](http://xkcd.com/1270/)
 
 ## Functional Programming ##
 
