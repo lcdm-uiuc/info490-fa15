@@ -40,4 +40,4 @@ Note that are using Python2.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the Week 11 Lesson 2 Assessment.
+When you have completed and worked through the above readings, please take the [Week 11 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095602).
