@@ -1,26 +1,47 @@
 # Week 12 Lesson 3 #
-## Statistical Exploration ##
+## Using SQL for Data Manipulation ##
 
-In this lesson, you will learn how to apply Bayesian Statistical Analysis to a data set, which you will do by following along in Chapter 1 of the free [Book Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/gh-pages/). First, you will have a quick review of Bayesian statistics. Second, you will apply Bayesian statistics to a few simple examples. Next you will review several probability distributions. Finally, you will learn about monte-carol Markov Chains (MCMC), and how to use PyMC to sample from the posterior to estimate model parameters.
+In this lesson, you will learn how to add, change, delete, and select
+data by using the SQLite database. First, you will learn about the SQL
+INSERT command, which you will use to insert data into a SQLite
+database. Second, you will learn about the SQL SELECT query command,
+including the use of operators, expressions, and a WHERE clause to
+extract data from a SQLite database. Next you will learn about making
+more complex SQL queries by creating compound SQL statements with the
+AND and OR clauses. Next, you will leaner about changing or deleting
+data from a SQLIte database by using the SQL UPDATE and DELETE commands.
+Finally, you will learn more advanced SQL commands to create more
+powerful queries for extracting, changing, or deleting data from a
+SQLite database. 
+
+In this lesson, you can also try some of these SQL statements out on
+other databases by using the online SQL emulator located at
+http://sqlzoo.net/wiki/Main_Page. By changing the Engine drop-down box,
+you can choose to execute SQL against a MySQL, Oracle, SQL Server,
+PostgreSQL, Ingres, or DB2 database.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the relevance of Bayesian statistics to the construction of models.
-- Understand how to use PyMC to sample from the posterior.
-- Understand how to use MCMC to determine model parameters and confidence intervals.
+- Understand how to insert data into a SQL database.
+- Understand how to extract data from a SQL database.
+- Understand how to change data in a SQL database.
+- Understand how to delete data in a SQL database.
 
 ### Time Estimate ###
 
-Approximately 3 hours.
+Approximately 2 hours.
 
 ### Readings ####
 
-- Python [Statistical Exploration](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
+- Introduction to [SQL DML Notebook](notebook/intro2sqldml.ipynb)
 
 #### *Optional Additional Readings*####
 
-- Another viewpoint on [Statistical Analysis](https://ipython-books.github.io/featured-07/)
+- [Database and SQL Tutorial](http://www.tutorialspoint.com/sql/index.htm): From the SQL-Insert Query page through the SQL-Sorting Results page.
+- [SQLite Tutorial](http://www.tutorialspoint.com/sqlite/index.htm): From the SQLite-Insert Query page through the SQLite-Distinct page
+- [SQL Tutorial](http://www.w3schools.com/sql/)
+- [SQL Online Tutorial](http://sqlzoo.net/wiki/Main_Page)
 
 ### Assessment ###
 

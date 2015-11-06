@@ -1,15 +1,23 @@
 # Week 12 Lesson 2 #
-## Visual Exploration ##
+## Using SQL for Schema Manipulation ##
 
-In this lesson, you will learn how to visually explore a data set/ This lesson will build on the results of lesson 1, where you constructed a data subset of the airline flight data and stored this data in a compact HDF format. First, you will read this data into your IPython Notebook, after which you will generate different visual representations from the data, including pair plots, grouped scatter pots, box plots, violin plots, histograms, joint plots, and heat maps.
+In this lesson, you will learn how to create and delete database and
+database schema. First, you will earn about basic SQL Syntax, including
+the allowed SQL data types. While this will focus on the Sqlite3 syntax
+and data types,  more general information will be conveyed. Next, you
+will learn how to create and delete databases. Next you will learn how
+to create database schema, including relational tables, and the columns
+that define the characteristics of those tables. This will also include
+a discussion of views, indices, and user defined functions. Finally,
+you will learn how to drop and alter existing tables.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the different types of visualizations that can be used to gain insight into a data set.
-- Understand how to make and interpret a pari plot.
-- Understand how to use box plots, violin plots, and histograms to understand large data sets.
-- Understand how to use summary visualizations like a heat map to understand large data sets.
+- Understand how to create and delete databases in SQLite.
+- Understand how to create and delete relational database tables by using SQLite.
+- Understand the creation and maintenance of relational database schema.
+- Understand the difference between relational database tables and views.
 
 ### Time Estimate ###
 
@@ -17,11 +25,16 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [Python data visual exploration](notebook/dataexplore.ipynb) 
+- Introduction to [SQL DML Notebook](notebook/intro2sqlddl.ipynb) 
 
 #### *Optional Additional Readings*####
 
-- Relevant sections from the [Seaborn tutorial](http://web.stanford.edu/~mwaskom/software/seaborn/tutorial.html)(corresponding to the plot type being used in the course IPython Notebook).
+- [Database and SQL Tutorial](http://www.tutorialspoint.com/sql/index.htm): From the SQL-Syntax page through the SQL-Drop Table page.
+- [SQLite Tutorial](http://www.tutorialspoint.com/sqlite/index.htm): From the SQLite-Syntax page through the SQLite-Drop Table page
+- [SQL Tutorial](http://www.w3schools.com/sql/)
+- [SQL Online Tutorial](http://sqlzoo.net/wiki/Main_Page)
+
+
 
 ### Assessment ###
 

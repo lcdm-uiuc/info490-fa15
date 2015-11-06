@@ -1,15 +1,23 @@
 # Week 12 Lesson 1 #
-## Data Preparation ##
+## Relational Database ##
 
-In this lesson, you will learn how to work with large data files in an IPython Notebook. This includes dealign with emory issues, both with the IPython Kernel and general Python memory usage. You will learn how to control the size and data type of data being read into a Python program. Finally, you will learn how to use Pandas to compactly read in a data subset and subsequently write this data in a compact HDF format.
+In this lesson, you will start learning about data persistence
+techniques by using Python. First, you will review using basic file I/O
+to save Python data. Next, you will learn about Pickling, a Python
+technique for saving and restoring data  by using a custom Python
+format. Third, you will learn about relational databases, including the
+basic relational database concepts such as database roles and the ACID
+test. Finally you will learn about the SQLite database that we will use
+to demonstrate relational database concept in this course.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the importance of memory management.
-- Understand how to use the free command to determine the amount of available memory and swap memory for a running application.
-- Understand how to control the data type and subsetting of data being read into a Python program.
-- Understand how to write data into a compact HDF format.
+- Understand the concept of pickling data.
+- Understand relational database technology
+- Understand database roles.
+- Understand the ACID test. 
+- Understand the basic concepts behind the Sqlite database
 
 ### Time Estimate ###
 
@@ -17,11 +25,12 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [Python data exploration](notebook/intro2de.ipynb)
+- Introduction to [Data Persistence Notebook](notebook/intro2db.ipynb)
 
 #### *Optional Additional Readings*####
 
-- Pandas [writing HDF](http://pandas.pydata.org/pandas-docs/stable/io.html#io-hdf5)
+- [Database and SQL Tutorial](http://www.tutorialspoint.com/sql/index.htm): From the SQL-Home page through the SQL-Databases page.
+- SQLite Tutorial](http://www.tutorialspoint.com/sqlite/index.htm): From the SQLite-Home page through the SQLite-Commands page
 
 ### Assessment ###
 
