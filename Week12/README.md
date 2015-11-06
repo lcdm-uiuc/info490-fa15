@@ -1,6 +1,8 @@
 #Week 12 Overview#
 ![Draft Image](../images/Draft_Version_picture.png)
 
+![Relational Databases Comic](images/relational_databases.jpg)
+
 ## Introduction to Data Persistence ##
 
 This week you will learn about relational database management systems
@@ -41,3 +43,5 @@ manipulation language (DML) functionality.
 [w12v]: https://mediaspace.illinois.edu/
 [w12a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095383
 [w12q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095380
+
+Photo Credit: If Libraries were like relational databases by Brian Panulla. Created 31 December 2010. http://ghostednotes.com/2010/12/31/if-libraries-were-like-relational-databases. Accessed 3 August 2015
