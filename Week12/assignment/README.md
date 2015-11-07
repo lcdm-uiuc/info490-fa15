@@ -14,9 +14,7 @@ One is just for the peer assessment, and the other one is just for instructor's 
 
 ## Submission deadline: Saturday, November 14, 2015, 6:00 PM
 
-## Problem 12.1. Use template:
-
-## Problem 12.2. Use template:
+## Problem 12.1, 12.2, and 12.3  Use template: [SQL](sql.ipynb)
 
 Don't forget that you have to submit in **two** places, one for peer assessment and the other one for instructor's grades.
 
