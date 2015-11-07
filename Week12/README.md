@@ -28,7 +28,7 @@ manipulation language (DML) functionality.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 12 Introduction Video][w12v] **|10 Minutes|Tuesday|NA|
+|**[Week 12 Introduction Video][w12v]**|10 Minutes|Tuesday|NA|
 |**[Week 12 Lesson 1: Relational Databases](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 12 Lesson 2: SQL: Schema Manipulation](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 12 Lesson 3: SQL: Data Manipulation](lesson3.md)**| 2 Hours | Thursday| 70 |
