@@ -1,5 +1,4 @@
 #Week 12 Overview#
-![Draft Image](../images/Draft_Version_picture.png)
 
 ![Relational Databases Comic](images/relational_databases.jpg)
 
@@ -32,7 +31,7 @@ manipulation language (DML) functionality.
 |**[Week 12 Introduction Video][w12v] **|10 Minutes|Tuesday|NA|
 |**[Week 12 Lesson 1: Relational Databases](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 12 Lesson 2: SQL: Schema Manipulation](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 12 Lesson 3: SQL: Data Manipulation](lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 12 Lesson 3: SQL: Data Manipulation](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**[Week 12 Quiz][w12q]**| 35 Minutes | Friday | 70|
 |**[Week 12 Assignment Submission][w12a]**| 3 Hours | Saturday | 60% of the grade from the Instructor, 40% of the grade from Peer grading | 
 |**Week 12 Completion of Peer Review**| 3 Hours | *The following* Saturday | 50 | 
@@ -40,7 +39,7 @@ manipulation language (DML) functionality.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w12v]: https://mediaspace.illinois.edu/
+[w12v]: https://mediaspace.illinois.edu/media/Week+Twelve/1_7ngyznna/33195071
 [w12a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095383
 [w12q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095380
 
