@@ -1,28 +1,36 @@
 # Week 13 Lesson 1 #
-## Supervised Learning ##
+## Introduction to Object Oriented Programming ##
 
-In this lesson, you will learn how to perform supervised learning by using the Python sickout_learn library. Specifically, you will learn about the overall framework employed by the sickout_learn library, before learning about specific algorithms. First, you will learn about the KNN algorithm, before moving on to the SVM, Decision Tree, and Random Forest algorithms. The course IPython Notebook will demonstrate how to use the algorithms on the famous Iris data set, as well as introduce the concepts of confusion matrices and cross-validation.
+In this lesson, you will learn about object oriented programming (OOP),
+a paradigm in which new data types are created by using classes and
+access to the data in these new data types can be controlled by using
+methods. This enables a programmer to encapsulate the state of a system
+to minimize unintentional side effects, and to (potentially) improve
+performance. Existing classes can be extended by using inheritance, and
+class hierarchies can be dynamically created to support polymorphism.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the concept of supervised learning.
-- Understand how to use the scikit-learn library to perform supervised learning.
-- Understand how to use the knn, SVM, and decision tree algorithms.
-- Understand how to use an ensemble learning method like Random Forest.
+- Understand the the fundamental concepts behind object oriented programming.
+- Understand how OOP can be used to create new data types.
+- Understand the concepts of encapsulation, polymorphism, and inheritance.
 
 ### Time Estimate ###
 
-Approximately 3 hours.
+Approximately 1 hour.
 
 ### Readings ####
 
-- Course IPython Notebook on [supervised learning](notebook/intro2dm.ipynb)
+- [What is an Object?](http://docs.oracle.com/javase/tutorial/java/concepts/object.html) from Oracle Corp.
+- [What is OOP?](http://java.about.com/od/objectorientedprogramming/a/introobjects.htm)
+- [Python OOP
+Tutorial](http://www.python-course.eu/python3_object_oriented_programming.php), stop at the Methods heading
+(you can continue beyond this in Lessons 2 & 3).
 
 #### *Optional Additional Readings*####
 
-- Online Notebook on [SVM](http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/03.1-Classification-SVMs.ipynb).
-- Online Notebook on [Random Forests](http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/03.2-Regression-Forests.ipynb)
+- [Wikipedia article on OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 ### Assessment ###
 

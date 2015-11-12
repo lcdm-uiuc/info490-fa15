@@ -1,14 +1,22 @@
 # Week 13 Lesson 2 #
-## Unsupervised Learning ##
+## Introduction to Object Oriented Programming in Python ##
 
-In this lesson, you will learn about unsupervised learning by using a course IPython notebook and other online resources. Unsupervised learning can provide powerful insights into the nature of a dataset. Primarily, you will focus in this lesson on dimensional reduction, where you use unsupervised learning to reduce the volume of data being studied (e.g., the number of columns used to analyze a data set) by ranking the importance of different features.
+In this lesson, you will learn about implementing object oriented
+programming concepts in Python. First, you will learn how to create a
+`class` in Python, how to add class documentation strings, how to add
+class attributes, and how to pass use class instances with general
+functions. Next, you will learn about integrating classes more fully
+within functions, how to support modification, and how to perform
+prototyping.
+
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the concept of unsupervised learning and dimensional reduction.
-- Understand how to employ principal component analysis by using scikit-learn.
-- Understand other dimensional reduction techniques.
+- Understand how to create a `class` in Python.
+- Understand how to initialize an object in Python
+- Understand how to use classes to define new data types
+- Understand ho to use these new data types within Python functions 
 
 ### Time Estimate ###
 
@@ -16,13 +24,14 @@ Approximately 3 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [dimensional reduction](notebook/intro2dr.ipynb)
-- Dimensional Reduction in [scikit-learning](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)
-- Another scikit-learn [tutorial](http://scikit-learn.org/stable/tutorial/statistical_inference/unsupervised_learning.html#decompositions-from-a-signal-to-components-and-loadings)
+- Chapter 15 from [Think Python2](http://www.greenteapress.com/thinkpython2/html/thinkpython2016.html)
+- Chapter 16 from [Think Python2](http://www.greenteapress.com/thinkpython2/html/thinkpython2017.html)
 
 #### *Optional Additional Readings*####
 
-- Online notebook on [dimensional reduction](http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.1-Dimensionality-PCA.ipynb)
+- [Improve your Python: OOP](https://www.jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) (Stopping at the Inheritance heading).
+- [OOP Section](http://anandology.com/python-practice-book/object_oriented_programming.html) in the Python Practice Book (up to section _4.3 Inheritance_).
+- Tutorialspoint [Python Object Oriented](http://www.tutorialspoint.com/python/python_classes_objects.htm) lesson (stop at _Class Inheritance_)
 
 ### Assessment ###
 

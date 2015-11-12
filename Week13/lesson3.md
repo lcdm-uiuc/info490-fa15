@@ -1,28 +1,37 @@
 # Week 13 Lesson 3 #
-## Clustering ##
+## Object Oriented Programming in Python ##
 
-In this lesson, you will learn about cluster finding, where we look for groups of points that are related in a particular space of attributes. Cluster finding can be used for classification, where each member of the cluster has the same or similar type, and it can be used for density estimation, where we replace a large range of points with their cluster representation. A popular method to perform unsupervised cluster finding is k-means, which we will learn to perform by using the sickout_learn library.
+In this lesson, you will learn about more advanced object oriented
+programming concepts and how to use them effectively by using the Python
+programming language. This includes understanding the concept of classes
+as interfaces and specific implementations of an interface. The use of
+methods to encapsulate the state of an object, and finally the use of
+inheritance to build object oriented hierarchies.
+
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the concept of cluster finding.
-- Understand how the k-means algortihm.
-- Understand how to employ k-means by using the sickout_learn library.
+- Understand the concept of class methods.
+- Understand how to define an interface.
+- Understand how to create a succesful implementation of an interface.
+- Understand how to use inheritance to construct object hierarchies.
+- Understand the benefits of using encapsulation.
 
 ### Time Estimate ###
 
-Approximately 2 hours.
+Approximately 3 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [cluster finding](notebook/intro2clust.ipynb)
-- Scikit-learn tutorial on [cluster finding](http://scikit-learn.org/stable/tutorial/statistical_inference/unsupervised_learning.html#clustering-grouping-observations-together)
-
+- Chapter 17 from [Think Python2](http://www.greenteapress.com/thinkpython2/html/thinkpython2018.html)
+- Chapter 18 from [Think Python2](http://www.greenteapress.com/thinkpython2/html/thinkpython2019.html)
 
 #### *Optional Additional Readings*####
 
-- Online Notebook on [cluster finding](http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.2-Clustering-KMeans.ipynb)
+- [Improve your Python: OOP](https://www.jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/) (starting from the Inheritance heading).
+- [OOP Section](http://anandology.com/python-practice-book/object_oriented_programming.html) in the Python Practice Book (from section _4.3 Inheritance_ onward).
+- Tutorialspoint [Python Object Oriented](http://www.tutorialspoint.com/python/python_classes_objects.htm) lesson (from _Class Inheritance_ onward)
 
 ### Assessment ###
 
