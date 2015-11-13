@@ -5,7 +5,7 @@
 
 In this week, you will learn about object oriented programming and how
 to use this programming paradigm by using the Python programming
-langauge. Specifically, you will leanr how to create new data types in
+language. Specifically, you will learn how to create new data types in
 Python by using a `class`, how to control access to the attributes of
 this new data type by using _methods_, and how to leverage existing
 objects through inheritance.
