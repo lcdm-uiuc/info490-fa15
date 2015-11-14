@@ -1,5 +1,4 @@
 #Week 13 Overview#
-![Draft Image](../images/Draft_Version_picture.png)
 
 ## Object Oriented Programming (OOP) ##
 
