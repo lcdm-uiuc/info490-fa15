@@ -35,4 +35,4 @@ Approximately 3 hours.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the Week 13 Lesson 2 Assessment.
+When you have completed and worked through the above readings, please take the [Week 13 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095626).
