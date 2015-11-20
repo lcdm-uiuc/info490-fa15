@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><AirportStatus> 
+					<Delay>false</Delay>
+				
+					<IATA>STL</IATA>
+				
+					<State>Missouri</State>
+				
+					<Name>Lambert-St Louis International</Name>
+				
+					<Weather><Visibility>10.00</Visibility>
+				
+					<Weather>Fair</Weather>
+				
+					<Meta><Credit>NOAA&apos;s National Weather Service</Credit>
+				
+					<Updated>12:51 PM Local</Updated>
+				
+					<Url>http://weather.gov/</Url></Meta>
+				
+					<Temp>63.0 F (17.2 C)</Temp>
+				
+					<Wind>Northwest at 15.0mph</Wind></Weather>
+				
+					<ICAO>KSTL</ICAO>
+				
+					<City>St Louis</City>
+				
+					<Status><Reason>No known delays for this airport.</Reason>
+				
+					<ClosureBegin></ClosureBegin>
+				
+					<EndTime></EndTime>
+				
+					<MinDelay></MinDelay>
+				
+					<AvgDelay></AvgDelay>
+				
+					<MaxDelay></MaxDelay>
+				
+					<ClosureEnd></ClosureEnd>
+				
+					<Trend></Trend>
+				
+					<Type></Type></Status>
+				</AirportStatus> 
