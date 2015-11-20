@@ -1,29 +1,37 @@
 # Week 14 Lesson 2 #
-## Running Containers in the Cloud ##
+## Data Parsing##
 
-In this lesson, you will learn how to use the Google compute engine. Specifically, you will learn how to register to use the Google compute engine, before learning how to instantiate a google compute virtual machine. Next you will learn how to use a local GCE Docker container to authenticate and connect to a running Google Compute Engine VM. Finally, you will learn how to deploy our course Docker image as a running container in your Google Compute Engine VM.
+In this lesson, you will learn about extracting information from
+structured data sets. This includes parsing data from XML formats such
+as HTML, which is the language in which web pages are written and
+stored. To do this you will learn about the BeautifulSoup parsing
+library and the libxml parsing engine. You also will review the basics
+of regular expressions, which can speed up the extraction of specific
+data from XML formatted files.
 
 ###Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand the basic concepts behind Google Compute Engine
-- Understand how to instantiate an Ubuntu Virtual Machine within Google Compute Engine
-- Understand how securely connect to a running virtual machine within Google Compute Engine
-- Understand how to monitor and terminate running virtual machines within Google Compute Engine 
+- Understand how to use a data parsing library like BeautifulSoup.
+- Understand how to find and extract information from an XML format file
+- Understand how to extract data from a webpage.
+- Understand the document object model 
+
 
 ### Time Estimate ###
 
-Approximately 3 hours.
+Approximately 2 hours.
 
 ### Readings ####
 
-- Getting started with [Google Cloud SDK](https://github.com/UI-DataScience/spring2015/blob/master/week14/README.md)
-- Running Docker Containers in the [Cloud Notebook](notebook/intro2gc.ipynb)
-
+- Course IPython Notebook on [Data Parsing](notebook/intro2dp.ipynb)
+- [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
 
 #### *Optional Additional Readings*####
 
-- Google Compute Engine [introduction](https://cloud.google.com/compute/docs/)
+- A course [primer notebook](intro2pandas.ipynb) on Pandas
+- A [web scraping](http://nbviewer.ipython.org/url/www.unc.edu/~ncaren/Lax-1.ipynb.json) in Python tutorial
+- Another [web scraping](http://nbviewer.ipython.org/urls/dl.dropboxusercontent.com/u/33663928/dst4l-projects/week5/Web_Scraping_Tutorial-TotalFilm_50_Adaptations.ipynb) in Python tutorial
 
 ### Assessment ###
 
