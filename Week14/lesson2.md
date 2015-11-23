@@ -36,4 +36,4 @@ Approximately 2 hours.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 14 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/edit.php?cmid=1095638).
+When you have completed and worked through the above readings, please take the [Week 14 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095638).
