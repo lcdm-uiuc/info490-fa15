@@ -22,11 +22,12 @@ open-source libraries such as the mpi4py library.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 15 Introduction Video](**|10 Minutes|Monday |20|
-|**[Week 15 Lesson 1: Python: Introduction to Data Mining (scikit learn)](lesson1.md)**| 2 Hours |Tuesday| 20|
+|**[Week 15 Introduction Video][w15v]**|10 Minutes|Monday |20|
+|**[Week 15 Lesson 1: Python: Introduction to HPC](lesson1.md)**| 2 Hours |Tuesday| 20|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
+[w15v]: http://mediaspace.illinois.edu/
 
 Photo Credit: Blue Waters Supercomputer. From http://gladiator.ncsa.illinois.edu/Images/bluewaters/timeline/bw_front.jpg. Accessed 3 August 2015.
