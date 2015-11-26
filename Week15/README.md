@@ -28,6 +28,6 @@ open-source libraries such as the mpi4py library.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[w15v]: http://mediaspace.illinois.edu/
+[w15v]: https://mediaspace.illinois.edu/media/Week+Fifteen/0_sbxk771y/33195071
 
 Photo Credit: Blue Waters Supercomputer. From http://gladiator.ncsa.illinois.edu/Images/bluewaters/timeline/bw_front.jpg. Accessed 3 August 2015.
